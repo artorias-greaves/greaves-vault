@@ -10,7 +10,7 @@ I'll keep this site updated with stuff as you guys learn about it in the game. Y
 
 This landing page will include the current topic and related info.
 
-Alas, the site where this is published is very limited. You may find the formatting off in some places, and images will not be present.
+Alas, the site where this is published is very limited. You may find the formatting off in some places, and images may not be present.
 
 # Campaign of the Rotting Crypts
 ---
