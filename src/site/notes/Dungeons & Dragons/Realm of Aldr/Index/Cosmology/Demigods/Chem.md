@@ -38,4 +38,4 @@ Chemists revere Alchemies as if they were divine objects.
 ---
 # Gallery
 ---
-![Chem, generated.png|300](/img/user/Dungeons%20&%20Dragons/Realm%20of%20Aldr/Attachments/Chem,%20generated.png)
+![Chem, generated.png|300](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Chem,%20generated.png)

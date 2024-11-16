@@ -22,4 +22,4 @@ Like most of Tir's faithful, Lumen embodies the virtues of order and lordship. S
 ---
 - Lumen is under the [[Dungeons & Dragons/Realm of Aldr/Index/Factions/House of the Sun\|House of the Sun]].
 # Gallery
-![Lumen, the Last Light.png|300](/img/user/Dungeons%20&%20Dragons/Realm%20of%20Aldr/Attachments/Lumen,%20the%20Last%20Light.png)
+![Lumen, the Last Light.png|300](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Lumen,%20the%20Last%20Light.png)

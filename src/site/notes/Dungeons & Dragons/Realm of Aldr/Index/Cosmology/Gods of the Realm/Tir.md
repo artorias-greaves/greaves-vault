@@ -45,4 +45,4 @@ The [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Inquisition\|Inquisition]]
 ---
 # Gallery
 ---
-![Tir in Coliseum.png|700](/img/user/Dungeons%20&%20Dragons/Realm%20of%20Aldr/Attachments/Tir%20in%20Coliseum.png)
+![Tir in Coliseum.png|700](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Tir%20in%20Coliseum.png)

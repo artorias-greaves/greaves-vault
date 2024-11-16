@@ -25,4 +25,4 @@ Arek delved into the Rotting Crypts of Guild in search of a cure. Instead, he wa
 ---
 - Arek is an old friend of [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Edgar, the Wandering Rat\|Edgar, the Wandering Rat]].
 # Gallery 
-![Arek of Guild.png|300](/img/user/Dungeons%20&%20Dragons/Realm%20of%20Aldr/Attachments/Arek%20of%20Guild.png)
+![Arek of Guild.png|300](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Arek%20of%20Guild.png)

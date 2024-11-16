@@ -37,4 +37,4 @@ The Noosemen were first formed from a traveling artisan trope—actors, poets, a
 Many generations later, this bandit clan still holds its traditions and prejudices. They communicate sensitive information using subtle notes from a flute, and are often found playing somber melodies when at rest. 
 # Gallery
 ---
-![Nooseman of Guild.png|800](/img/user/Dungeons%20&%20Dragons/Realm%20of%20Aldr/Attachments/Nooseman%20of%20Guild.png)
+![Nooseman of Guild.png|800](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Nooseman%20of%20Guild.png)

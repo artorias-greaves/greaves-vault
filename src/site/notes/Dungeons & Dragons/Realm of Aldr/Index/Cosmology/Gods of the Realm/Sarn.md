@@ -44,4 +44,4 @@ The Sarnhari, or Whores of Sarn, is a devilish cabal that heeds the chaos god's 
 ---
 # Gallery
 ---
-![Sarn.png|300](/img/user/Dungeons%20&%20Dragons/Realm%20of%20Aldr/Attachments/Sarn.png)
+![Sarn.png|300](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Sarn.png)

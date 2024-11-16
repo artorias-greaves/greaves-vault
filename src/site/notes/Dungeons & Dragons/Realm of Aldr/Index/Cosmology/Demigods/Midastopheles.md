@@ -30,4 +30,4 @@ It is a strangely devout or deeply learned person who seeks out Midastopheles—
 ---
 # Gallery
 ---
-![Midastopheles, to the right..png](/img/user/Dungeons%20&%20Dragons/Realm%20of%20Aldr/Attachments/Midastopheles,%20to%20the%20right..png)
+![Midastopheles, to the right..png](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Midastopheles,%20to%20the%20right..png)
