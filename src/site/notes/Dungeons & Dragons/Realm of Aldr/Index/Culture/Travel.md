@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/culture/travel/"}
+---
+
+Travel in the realm is an exceedingly harrowing task that requires diligent planning and preparation. Due to the dangers of the night, camping in the open wilderness is rarely an option. Ruins are frequent points of shelter, but often have troubled histories or inhabitants. For these factors and more, 'traveling the open road' is only done when necessary, and most people never experience the lands outside of their local region.
+
+The dangers of life outside of walled and well-lit settlements is thousandfold. One must be prepared to encounter threats of all varieties: Heinous monsters, vengeful warlocks, trickster trees, and the [[Dungeons & Dragons/Realm of Aldr/Index/Monsters/Nightgaunt\|Nightgaunt]]: An insidious creature that lingers on the edge of light and shadow, consuming any who linger in the dark.
+
+With security more easily commanded in numbers, caravans often form, made up of people who share collective destinations or goals. These caravans will sponsor armed guides to chart their route and protect them until they reach the intended destination. The [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Merchwardens\|Merchwardens]] of [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Guild\|Guild]] are hired elites that protect trade in the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Outer Bailey\|Outer Bailey]]. The [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Inquisition\|Inquisition]] protects [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] in pilgrimage. Myriad companies may be hired, independent of any creed but the exchange of [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Runes\|runes]].
