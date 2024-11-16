@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/cosmology/outer-influences/anwe/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/cosmology/outer-influences/anwe/"}
 ---
 
 
