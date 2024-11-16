@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/locations/aldr/outer-bailey/guild/guild/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/locations/aldr/outer-bailey/guild/guild/"}
 ---
 
 **Guild**, also known as the **City of Guild**, or the **Golden City**, is the largest [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardian]] settlement and the center of trade and shelter in the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Outer Bailey\|Outer Bailey]]. It is a gilded city tarnished by age and corruption. Once a seat of security and wealth after the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/God Wars\|God Wars]], generations of infighting and magical plagues have left the city in a crumbling state. It was a grand cosmopolitan settlement rich with art and culture. Now, it is a crumbling urban frontier filled with beggars and monsters alike.
