@@ -17,7 +17,7 @@ Like most of Tir's faithful, Lumen embodies the virtues of order and lordship. S
 ---
 # Hooks
 ---
-- **Breaking Point.** Lumen is close to losing her mind. Under further stress, she will abandon her shrine and enter the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Rotting Crypts\|Rotting Crypts]] without the protection of Tir.
+- **Clerical Duties.** Lumen has been coerced by the [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Noosemen\|Noosemen]] to travel to the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Aerie\|Aerie]], their headquarters, to apply her healing magics to [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Sapra\|Sapra]], leader of the bandit clan.
 # Bonds
 ---
 - Lumen is under the [[Dungeons & Dragons/Realm of Aldr/Index/Factions/House of the Sun\|House of the Sun]].
