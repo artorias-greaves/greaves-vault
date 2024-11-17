@@ -26,4 +26,5 @@ Alas, the site where this is published is very limited. You may find the formatt
 - [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Gods of the Realm\|Gods of the Realm]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Guild\|Guild]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Inquisition\|Inquisition]]
+- [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Lumen, the Last Light\|Lumen, the Last Light]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Noosemen\|Noosemen]]
