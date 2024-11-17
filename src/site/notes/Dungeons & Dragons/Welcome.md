@@ -22,6 +22,6 @@ Alas, the site where this is published is very limited. You may find the formatt
 ## Related Links
 - [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Burg Rot\|Burg Rot]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Gods of the Realm\|Gods of the Realm]]
-- [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Inquisition\|Inquisition]]
-- [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Lumen, the Last Light\|Lumen, the Last Light]]
+- [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Inquisition\|The Inquisition]]
+- [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Sarnhari\|Sarnhari]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Travel\|Travel]]
