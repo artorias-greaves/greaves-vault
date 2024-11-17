@@ -25,6 +25,6 @@ Arek eventually succumbed to the rot after helping his new companions reach the 
 - **Long Live the King.** Arek seeks the death or banishment of [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Sapra\|Sapra]], the current leader of the Noosemen. He will usurp her position whenever made able, but does not oppose her without external aid.
 # Bonds
 ---
-- Arek is an old friend of [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Edgar, the Wandering Rat\|Edgar, the Wandering Rat]].
+- Arek is an old friend of [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Player Characters/Edgar, the Wandering Rat\|Edgar, the Wandering Rat]].
 # Gallery 
 ![Arek of Guild.png|300](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Arek%20of%20Guild.png)
