@@ -18,6 +18,8 @@ Arek is steadfast and loyal. His friends know him as a reliable ally and profici
 # History
 ---
 Arek delved into the Rotting Crypts of Guild in search of a cure. Instead, he was ambushed by Rotting Dead and infected. Instead of a cure, he searches for the truth behind the rot before he dies.
+
+Arek eventually succumbed to the rot after helping his new companions reach the depths of the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Rotting Crypts\|Rotting Crypts]]. His body lies on the bottom floor.
 # Hooks
 ---
 - **Long Live the King.** Arek seeks the death or banishment of [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Sapra\|Sapra]], the current leader of the Noosemen. He will usurp her position whenever made able, but does not oppose her without external aid.
