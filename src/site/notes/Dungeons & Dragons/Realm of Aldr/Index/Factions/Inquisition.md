@@ -3,7 +3,7 @@
 ---
 
 The **Inquisition**, also known as **Tir's Inquisition**, or the **Church of Tir**, is a religious order centered around the worship, protection, and adherence to the god [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Tir\|Tir]] and his followers—as well as the detection, investigation, and removal of all [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Sarnhari\|Sarnhari]] influence from the realm.
-
+![Heraldry - Inquisition.png|150](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Heraldry%20-%20Inquisition.png)
 **Motto**
 Elevators smell different to midgets.
 

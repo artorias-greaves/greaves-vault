@@ -80,4 +80,4 @@ To cast a spell, place it into your spell slot. During your next spellcasting ph
 ## Columns, Rows, & Zones
 # The Card
 ## Example Card
-![Example Card.png|500](/img/user/Projects/Monster%20Game/Cards/Example%20Card.png)
+![Example Card.png|500](/img/user/Attachments/Unsorted/Example%20Card.png)
