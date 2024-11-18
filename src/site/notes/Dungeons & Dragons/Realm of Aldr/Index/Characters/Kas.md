@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/characters/kas/"}
 ---
 
-***Wandering Lotharian***
+***Wandering Tiragardian***
 
-**Kas** was an original inhabitant of [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Tiragard\|Tiragard]]. Though he has lost most of his memories, his immortality granted by his divine lineage allows him to explore the changes of the realm over the years.
+**Kas** is an enigmatic [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian#Lotharian\|Lotharian]], a living ghoul who roams the land as a wily and fearsome warrior. There is little known about his family origin, but it is rumored that he was once an adventurer who met an ill fate to a [[Dungeons & Dragons/Realm of Aldr/Index/Monsters/Galifax\|dragon]].
+
 # Physical Characteristics
 ---
 A shambling corpse with a will. He walks as if he can barely hold his own strength, but he is still a very powerful warrior.
