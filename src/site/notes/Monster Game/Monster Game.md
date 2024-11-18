@@ -78,3 +78,6 @@ To cast a spell, place it into your spell slot. During your next spellcasting ph
 # The Board
 ## Map
 ## Columns, Rows, & Zones
+# The Card
+## Example Card
+![Example Card.png|500](/img/user/Monster%20Game/Cards/Example%20Card.png)
