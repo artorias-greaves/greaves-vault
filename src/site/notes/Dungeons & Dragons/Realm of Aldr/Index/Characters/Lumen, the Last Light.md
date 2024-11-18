@@ -4,7 +4,7 @@
 
 ***Tiragardian Cleric***
 
-**Lumen** is the chapter leader of the [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Inquisition\|Inquisition]] in [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Guild\|Guild]]. She is a troubled cleric who increasingly doubts the hope of the realm and her [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Tir\|god]]. She strives to do good, but she's close to breaking.
+**Lumen** is the chapter leader of the [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Inquisition\|Inquisition]] in [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Guild\|Guild]]. She is a troubled cleric who increasingly doubts the hope of the realm and her [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Tir\|god]].
 # Physical Characteristics
 ---
 A physically tough and able woman with dark, olive skin and ragged hair put in a dreadlock ponytail. She has a square face. A cloth is placed over her eyes; she is a cleric who has lost her sight in service to the Dying God.
