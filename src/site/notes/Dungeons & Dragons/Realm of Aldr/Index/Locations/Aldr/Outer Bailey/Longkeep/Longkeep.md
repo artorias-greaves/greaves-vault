@@ -20,6 +20,7 @@ The survivors of Longkeep are aggressive and slow to trust, likely due to the mi
 ---
 # Notable Locations
 ---
+- **[[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Longkeep/Fog\|The Fog]].**
 - **Grothouse.**
 - **[[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Longkeep/Gnarled Chemhouse\|Gnarled Chemhouse]].**
 # Gallery

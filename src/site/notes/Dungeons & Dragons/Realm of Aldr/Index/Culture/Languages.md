@@ -19,6 +19,7 @@ However effective it may be, Tradespeak is incredibly rudimentary, and lacks the
 ## Runic
 The written language of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Outer Influences/Anwe\|Anwe]], inscribed in the runestones that make up the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Warded Walls\|Warded Walls]] and used to communicate with the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Inner Influences/Inner Influences\|younger gods]]. The language of creation itself, but very rarely are samples found as full letters.
 
-**Rûngar.** The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Races/Dwarriden\|Dwarriden]]. This ancient language is presented as a collection of rumbles and vibrations, thought to be the vocalizations of the realm's runes.
+### Rûngar.
+The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Races/Dwarriden\|Dwarriden]]. This ancient language is presented as a collection of rumbles and vibrations, thought to be the vocalizations of the realm's runes.
 ## Ylven
 The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Races/Ylvari\|Ylvari]].

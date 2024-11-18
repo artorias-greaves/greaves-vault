@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/culture/death-roll/"}
 ---
 
-A popular game amongst [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian#Baelic\|Baelics]]. Common wagers include runes and food.
+A popular dice game amongst [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian#Baelic\|Baelics]]. Common wagers include runes and food.
 # Rules
 ---
 1. The group agrees on a wager.
