@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/cosmology/undeath/"}
 ---
 
-Undeath in the realm takes many forms, ranging from a divine mold to a cursed dynasty.
+**Undeath** in the realm takes many forms, ranging from a divine mold to a cursed dynasty.
 # Burg Rot
 ---
 The [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Burg Rot\|Burg Rot]] began to spread in densely populated areas at some point after the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/God Wars\|God Wars]]. This form of undeath is the result of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Magic#Fetish\|Fetishism]]—the magic of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Sarn\|Sarn]].

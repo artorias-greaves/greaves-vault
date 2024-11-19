@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/culture/grot/"}
 ---
 
-Grot is a commonly consumed beverage in the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Outer Bailey\|Outer Bailey]]. It consists of a mash of rotted or fermented grains, fruit, and other, often suspect sources of sugar. The resulting suspension is commonly alcoholic, and its potency varies wildly from batch to batch. 
+**Grot** is a commonly consumed beverage in the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Outer Bailey\|Outer Bailey]]. It consists of a mash of rotted or fermented grains, fruit, and other, often suspect sources of sugar. The resulting suspension is commonly alcoholic, and its potency varies wildly from batch to batch. 
 
 While Grot is a favorite amongst the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Undeath\|Undead]], living [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] might find the drink repulsive.
 
@@ -18,7 +18,7 @@ To make Living Grot, one must use an existing source. Once a container has held 
 | Creeping Grot | 4d4+4   | [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Earthend\|Earthend]] |
 | Groaning Grot | 6d6+6   |      Unknown        |
 
-> [!NOTE] On Grot
+> [!NOTE] 5th Edition
 > *Living Grot* is the realm's equivalent to Potions of Healing.
 > 
 > Once during a short or long rest, so long as you have access to a water source, you may refill your Living Grot.
