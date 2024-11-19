@@ -37,7 +37,7 @@ Sarn is worshipped by all Sarnicans, and some Tiragardians beyond in secret sect
 ## Rituals
 The spirit of Sarn can be invoked by igniting Hellpowder or by one Tiragardian spilling the blood of another. Altars to Sarn participate in blood sacrifice to contact the dark god and hear his will.
 ## Sarnhari
-The Sarnhari, or Whores of Sarn, is a devilish cabal that heeds the chaos god's call, working behind the scenes to unravel the world in preparation for his new order. They are harbingers of great plagues, curses, and dark sorceries.
+The Sarnhari, or Whores of Sarn, is a devilish cabal that heeds the chaos god's call, working behind the scenes to unravel the world in preparation for his new order. They are harbingers of great plagues, curses, and dark sorceries through [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Magic#Fetish\|Fetish]] magic.
 # History
 ---
 # Notes

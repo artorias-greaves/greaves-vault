@@ -12,13 +12,15 @@ The guiding, judicial light of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmolog
 > - Radiant damage type.
 > - Divine sense and sacred oaths.
 > - Healing Word, Bless, Spirit Guardians, etc.
-## Shadowcraft
-This domain of magic is reviled by [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] and [[Dungeons & Dragons/Realm of Aldr/Index/Races/Dwarriden\|Dwarriden]] alike. It carries with it the same mistrust that necromancy does in most other settings. Even in [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|Sarnica]], where this magic is revered, it is forbidden to possess knowledge of outside of the privileged castes. Practitioners of prophecy, clairvoyance, and telepathy—common faucets of this magic—are harassed by demonic entities that appear in dreams and trance; the spawns of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Sarn\|Sarn]], from whom this magic originates.
+## Fetish
+This domain of magic is reviled by [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] and [[Dungeons & Dragons/Realm of Aldr/Index/Races/Dwarriden\|Dwarriden]] alike. It carries with it the same mistrust that necromancy does in most other settings. Even in [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|Sarnica]], where this magic is revered, it is forbidden to possess knowledge of outside of the privileged castes. Practitioners of prophecy, clairvoyance, and telepathy—common faucets of Fetish—are harassed by demonic entities that appear in dreams and trance; the spawns of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Sarn\|Sarn]], from whom this magic originates.
 > [!NOTE] 5th Edition Equivalents
 > - Necrotic damage type.
 > - Divination and dreams.
 > - Darkness, Eldritch Blast, Hellish Rebuke, etc.
 > - Demons and fiends.
+
+Not to be confused with sexual fetishism.
 ## Runics
 Runics, or rune magic, is magic that is most commonly tied to objects rather than elements or forces. It comes from the inherently divine nature of the world, especially so in the [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Runes\|stones]] that the gods used to make the walls that surrounded their kingdom. 
 
