@@ -21,7 +21,7 @@ This is the most difficult faucet of Hancock's hypothesis to pin down. Conservat
 
 > "Extraordinary claims require extraordinary evidence." — Carl Sagan
 
-If there existed a civilization in this time period (12'800-11'600 YBP), *especially if it were globe-spanning*, it would be reasonable to assume that *some* of these evidences would be found by now.
+If there existed a civilization in this time period (12'800-11'600 YBP)—especially if it were globe-spanning—it would be reasonable to assume that *some* of these evidences would be found by now (they haven't).
 # Younger Dryas Impact Hypothesis
 ---
 ![Ice Accumulation by Age.png](/img/user/Attachments/Notebook%20Attachments/Ice%20Accumulation%20by%20Age.png)
@@ -33,6 +33,9 @@ At its zenith, the rise in sea level resulting from Meltwater Pulse 1B achieved 
 ---
 # Global Phenomenon
 ---
+## 'Pyramids'
+### On Granite and Hardness
+## Symbols
 # Conclusion
 ---
 **Probably not.**
@@ -46,19 +49,24 @@ Hancock does not present a single point of genuine, certifiable evidence that su
 1. He is incorrect about a significant faucet of said scenario;
 2. He has made unreasonable leaps in logic to draw connections between the scenario and his hypothesis.
 
-**What about the radiocarbon dating?**
-Also known as carbon-14 dating, this is a scientific method that can determine the age of organic materials with a fair degree of accuracy. The issue with this method in relation to Hancock's thesis (in the rare circumstances it is provided) is that *human habitation* repeatedly fails to feature in these carbon dates; Trees, plants, and *any other organics* that grew in these time periods would provide a radiocarbon dating of said time period. 
+**What about radiocarbon dating?**
+Also known as carbon-14 dating, this is a scientific method that can determine the age of organic materials with a fair degree of accuracy (the mechanisms of which are beyond the scope of this essay). 
+
+The issue with this method in relation to Hancock's thesis (in the rare circumstances it is provided) is that *human habitation* repeatedly fails to feature in these carbon dates; Trees, plants, and *any other organic material* that existed in these time periods would provide a radiocarbon dating of said time period. 
 
 That there exists no known human cultural layers (or any human evidence for that matter) in these time periods *likely* points to the fact that humans did not inhabit these areas at these times.
+
+**Non-arguments.**
+Hancock has a habit of presenting 
 
 ## Postscript/Personal Conclusions
 Popular characters like Jimmy Corsetti and Dan Richards, alongside the alumni that fail to properly reckon with these facts, do a vast disservice to the broader perception of historians (professional and hobbyist alike) who are invested in the topics of prehistoric flooding, the ice age, and humanity's place in this tumultuous time by voicing unsubstantiated claims on platforms that fail to challenge them. Their engagement in these theses, while admirable on the surface, lays fertile ground for the compounding of conspiracy theories that have no basis in fact.
 
 > *"Goodness knows what has been lost to rising sea levels."* — Graham Hancock
 
-These are deeply interesting topics for me: Mankind's place in the ice age and before, warming and cooling periods (Younger Dryas epoch), and the possibility of a flood (or floods) that might corelate to historical accounts (Genesis, Sumerian mythos, etc.). The rise in prominence in these so-called *alternative historians* makes genuine research into these topics difficult at best; At worst, it opens the doors for being labeled conspiracist or unscientific, thus dissuading discussion.
+These are deeply interesting topics for me: Mankind's place in the ice age and before, warming and cooling periods, and the possibility of a flood (or floods) that might corelate to historical accounts (Genesis, Sumerian mythos, etc.). The rise in prominence in these so-called *alternative historians* makes genuine research into these topics difficult at best; At worst, it opens the doors for being labeled conspiracist or unscientific, thus dissuading discussion.
 
-If these people were truly interested in human history, they would be focusing their physical, mental, and monetary efforts towards funding current archaeological projects and restoring museums, not appearing on talk shows to bolster their own misguided agendas. The history of our species is interesting enough without the insertion of fantastical empires that are unprovable by design.
+If these people were truly interested in forwarding human history, they would be focusing their physical, mental, and monetary efforts towards funding and researching current archaeological projects and restoring museums, not appearing on talk shows to bolster their own misguided agendas. The history of our species is interesting enough without the insertion of fantastical empires that are unprovable by design.
 
 It sure is ~~infuriating~~ entertaining, though.
 
