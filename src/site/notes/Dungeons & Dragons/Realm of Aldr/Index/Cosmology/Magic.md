@@ -6,21 +6,21 @@ Magic in the realm is a set of phenomenon—some natural and some artificial, di
 # Divine
 ---
 Divine magics are the only sources of magic that existed before the appearance of the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Ehb\|Ehb]]. They are esoteric in nature, performed mostly through ritual and with a connection to the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Gods of the Realm\|gods]].
-## Grace of Tir
-The guiding, judicial light of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Tir\|Tir]] is the primary source of radiant magic in the realm. This magic is thought to come from the sun—the god's divine body—and thus often appears as a blinding light or white fire. It may guide the faithful on a particular path or towards a destination. It tends to elevate or uplift the wielder, clearing thoughts and revitalizing will. To its enemies, this magic burns and convicts, compels truthful speech, and holds foes at bay.
+## Grace
+The guiding, judicial light of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Tir\|Tir]] (also called the **Grace of Tir**, or the **Sun's Grace**), is the primary source of radiant magic in the realm. This magic is thought to come from the sun—the god's divine body—and thus often appears as a blinding light or white fire. It may guide the faithful on a particular path or towards a destination. To its invoker, this magic tends to uplift the spirit, clearing thoughts and boosting morale. To its enemies, this magic burns and convicts, compels truthful speech, and harries movement.
 > [!NOTE] 5th Edition Equivalents
 > - Radiant damage type.
 > - Divine sense and sacred oaths.
 > - Healing Word, Bless, Spirit Guardians, etc.
 ## Fetish
-This domain of magic is reviled by [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] and [[Dungeons & Dragons/Realm of Aldr/Index/Races/Dwarriden\|Dwarriden]] alike. It carries with it the same mistrust that necromancy does in most other settings. Even in [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|Sarnica]], where this magic is revered, it is forbidden to possess knowledge of outside of the privileged castes. Practitioners of prophecy, clairvoyance, and telepathy—common faucets of Fetish—are harassed by demonic entities that appear in dreams and trance; the spawns of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Sarn\|Sarn]], from whom this magic originates.
+This domain of magic is reviled by [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] and [[Dungeons & Dragons/Realm of Aldr/Index/Races/Dwarriden\|Dwarriden]] alike. It carries with it the same mistrust that necromancy does in most other settings. Even in [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|Sarnica]], where this magic is revered, it is forbidden to possess knowledge of outside of the privileged castes. Practitioners of prophecy, clairvoyance, and telepathy—common faucets of Fetishism—are harassed by demonic entities that appear in dreams and trance; the spawns of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Sarn\|Sarn]], from whom this magic originates.
+
+Not to be confused with sexual fetishism.
 > [!NOTE] 5th Edition Equivalents
 > - Necrotic damage type.
 > - Divination and dreams.
 > - Darkness, Eldritch Blast, Hellish Rebuke, etc.
 > - Demons and fiends.
-
-Not to be confused with sexual fetishism.
 ## Runics
 Runics, or rune magic, is magic that is most commonly tied to objects rather than elements or forces. It comes from the inherently divine nature of the world, especially so in the [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Runes\|stones]] that the gods used to make the walls that surrounded their kingdom. 
 
