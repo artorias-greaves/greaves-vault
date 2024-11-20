@@ -44,6 +44,11 @@ Hancock does not present a single point of genuine, certifiable evidence that su
 1. He is incorrect about a significant faucet of said scenario;
 2. He has made unreasonable leaps in logic to draw connections between the scenario and his hypothesis.
 
+**What about the radiocarbon dating?**
+Also known as carbon-14 dating, this is a scientific method that can determine the age of organic materials with a fair degree of accuracy. The issue with this method in relation to Hancock's thesis (in the rare circumstances it is provided) is that *human habitation* repeatedly fails to feature in these carbon dates; Trees, plants, and *any other organics* that grew in these time periods would provide a radiocarbon dating of said time period. 
+
+That there exists no known human cultural layers (or any human evidence for that matter) in these time periods *likely* points to the fact that humans did not inhabit these areas at these times.
+
 ## Postscript/Personal Conclusions
 Popular characters like Jimmy Corsetti and Dan Richards, alongside the alumni that fail to properly reckon with these facts, do a vast disservice to the broader perception of historians (professional and hobbyist alike) who are invested in the topics of prehistoric flooding, the ice age, and humanity's place in this tumultuous time by voicing unsubstantiated claims on platforms that fail to challenge them. Their engagement in these theses, while admirable on the surface, lays fertile ground for the compounding of conspiracy theories that have no basis in fact.
 
