@@ -13,14 +13,13 @@ Let's ask the question:
 ## What is 'advanced'?
 This is the most difficult faucet of Hancock's hypothesis to pin down. Conservatively, Hancock (and others) will simply claim that 'advanced' means 'more advanced than currently thought'. For the purposes of this article, this is the definition that is used.
 
-~~This is a facetious description, composed with deliberate ambiguity.~~
-
-> "Extraordinary claims require extraordinary evidence." — Carl Sagan
-
+~~However, it should be noted that this is likely a facetious description, composed with deliberate ambiguity as to delay the reader's understanding that this thesis carries with it claims of telepathy, telekinesis, and other psychic abilities that these prior peoples may have possessed.~~
 ## How do you prove a lost civilization?
 - **Cultural layers.** Stratigraphic layers of soil that contain evidence for human habitation. Currently one of the most useful and reliable methods for determining mankind's presence in a given area and time period.
 - **Material culture.** At this point, this evidence would likely exist in a cultural layer. Material culture refers to things like statues, distinct architecture, or tools and miscellaneous goods (such as jewelry, pottery, etc.)
 - **Structural evidence.** Among our earliest known civilizations exist remnants of structures, whether that comes in the form of remaining foundations, standing structures, or historical accounts of said structures.
+
+> "Extraordinary claims require extraordinary evidence." — Carl Sagan
 
 If there existed a civilization in this time period (12'800-11'600 YBP), *especially if it were globe-spanning*, it would be reasonable to assume that *some* of these evidences would be found by now.
 # Younger Dryas Impact Hypothesis
