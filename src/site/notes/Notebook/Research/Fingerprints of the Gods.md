@@ -5,7 +5,7 @@
 This is an article discussing journalist **Graham Hancock** and his foundational work, *Fingerprints of the Gods* (1995) and its related hypothesis: There was a global civilization that existed before the Younger Dryas period (~12'800-11'600 YBP).
 > *"There was a lost, globe-spanning, advanced civilization at the end of the last ice age."* — Graham Hancock
 ## Preamble
-It should go without saying that this article is **not** composed out of hatred for Hancock or prejudice against his hypothesis. This is a topic that is very interesting for me, and once upon a time, I subscribed wholly to Graham's thesis. 
+It should go without saying that this article is **not** composed out of hatred for Hancock or prejudice against his hypothesis. This is a topic that is very interesting for me, and once upon a time, I subscribed wholly to Graham's ideas.
 
 Let's ask the question: 
 
@@ -14,6 +14,9 @@ Let's ask the question:
 This is the most difficult faucet of Hancock's hypothesis to pin down. Conservatively, Hancock (and others) will simply claim that 'advanced' means 'more advanced than currently thought'. For the purposes of this article, this is the definition that is used.
 
 ~~This is a facetious description, composed with deliberate ambiguity.~~
+
+> "Extraordinary claims require extraordinary evidence." — Carl Sagan
+
 ## How do you prove a lost civilization?
 - **Cultural layers.** Stratigraphic layers of soil that contain evidence for human habitation. Currently one of the most useful and reliable methods for determining mankind's presence in a given area and time period.
 - **Material culture.** At this point, this evidence would likely exist in a cultural layer. Material culture refers to things like statues, distinct architecture, or tools and miscellaneous goods (such as jewelry, pottery, etc.)
@@ -56,7 +59,7 @@ Popular characters like Jimmy Corsetti and Dan Richards, alongside the alumni th
 
 These are deeply interesting topics for me: Mankind's place in the ice age and before, warming and cooling periods (Younger Dryas epoch), and the possibility of a flood (or floods) that might corelate to historical accounts (Genesis, Sumerian mythos, etc.). The rise in prominence in these so-called *alternative historians* makes genuine research into these topics difficult at best; At worst, it opens the doors for being labeled conspiracist or unscientific, thus dissuading discussion.
 
-The history of our species is interesting enough without the insertion of fantastical concepts that are unprovable by design.
+If these people were truly interested in human history, they would be focusing their physical, mental, and monetary efforts towards funding current archaeological projects and restoring museums, not appearing on talk shows to bolster their own misguided agendas. The history of our species is interesting enough without the insertion of fantastical empires that are unprovable by design.
 
 It sure is ~~infuriating~~ entertaining, though.
 
