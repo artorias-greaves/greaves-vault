@@ -82,6 +82,3 @@ Thanks for reading.
 
 ![ayy trump lmao.png](/img/user/Attachments/Notebook%20Attachments/ayy%20trump%20lmao.png)
 Felon?... Or time traveler??
-
----
-\* Probably not.
