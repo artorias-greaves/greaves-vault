@@ -4,6 +4,8 @@
 
 # Promises
 ---
+These are the campaign promises of the Donald J. Trump and RNC (Republican National Committee) platforms, as per the RNC website's own publication as of November 1, 2024.
+
 https://rncplatform.donaldjtrump.com/
 1. SEAL THE BORDER, AND STOP THE MIGRANT INVASION
 2. CARRY OUT THE LARGEST DEPORTATION OPERATION IN AMERICAN HISTORY
