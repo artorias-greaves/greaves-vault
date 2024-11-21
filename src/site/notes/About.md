@@ -9,6 +9,8 @@ I am a hobby-enthusiast. While this vault might include a number of researched t
 
 Just remember that, when reading or referencing this material, it is written by someone with no formal education; someone who has garnered their base of knowledge widely through the internet, and repeatedly fails to reference primary sources (because they're so damn boring to read—though stimulant medication does wonders in this regard).
 
+This site is not a reliable source of information, nor should it currently be referenced as such.
+
 **THIS SITE IS NOT A RELIABLE SOURCE OF INFORMATION.**
 # About the Author
 ayy lmao what are u doin here
