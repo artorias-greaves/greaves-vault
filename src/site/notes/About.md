@@ -5,11 +5,11 @@
 # Epistemic Disclosure
 > *"It ain't that deep, bro."* — Occam*
 
-I am a hobby-enthusiast. While this vault might include a number of researched topics that should be reserved for proper, educated, and certified historians, scientists, and intelligent people in general... Well, I felt like publishing my shit anyways.
+I am a hobby-enthusiast. While this vault might include a number of researched topics that should be reserved in comment for proper, educated, and certified historians, scientists, and intelligent people in general, I felt like publishing my shit anyways. These articles should never be used to further understanding in any field; rather, they are my personal thoughts on any given subject, complete with bias and a selective understanding at best.
 
-Just remember that, when reading or referencing this material, it is written by someone with no formal education; someone who has garnered their base of knowledge widely through the internet, and repeatedly fails to reference primary sources (because they're so damn boring to read—though stimulant medication does wonders in this regard).
+Remember that, when reading or referencing this material, it is written by someone with no formal education; someone who has garnered their base of knowledge widely through the internet, and repeatedly fails to reference primary sources (because they're so damn boring to read—though stimulant medication does wonders in this regard).
 
-This site is not a reliable source of information, nor should it currently be referenced as such.
+This site is not a reliable source of information, nor should it be referenced as such.
 
 **THIS SITE IS NOT A RELIABLE SOURCE OF INFORMATION.**
 # About the Author

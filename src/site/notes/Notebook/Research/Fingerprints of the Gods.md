@@ -12,7 +12,7 @@ This is an article discussing journalist **Graham Hancock** and his recent work,
 ## Preamble
 It should go without saying that this article is **not** composed out of hatred for Hancock or prejudice against his hypothesis. This is a topic that is very interesting for me, and once upon a time, I subscribed wholly to Graham's ideas. Naturally, this article should never prove as an excuse to dox, harass, or otherwise confront any persons mentioned.
 
-Let's ask the question: 
+With that out of the way, let's ask the question:
 
 **Did there exist an advanced, globe-spanning civilization at the end of the last ice age?**
 ## What is 'advanced'?
@@ -26,7 +26,7 @@ This is the most difficult faucet of Hancock's hypothesis to pin down. Conservat
 
 > "Extraordinary claims require extraordinary evidence." — Carl Sagan
 
-If there existed a civilization in this time period (12'800-11'600 YBP)—especially if it were globe-spanning—it would be reasonable to assume that *some* of these evidences would be found by now (they haven't).
+If there existed a civilization in this time period (12'800-11'600 YBP)—especially if it were globe-spanning—it would be reasonable to assume that *some* of these evidences would be found by now.
 # Younger Dryas Impact Hypothesis
 ---
 ![Ice Accumulation by Age.png](/img/user/Attachments/Notebook%20Attachments/Ice%20Accumulation%20by%20Age.png)
