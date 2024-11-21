@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notebook/research/fingerprints-of-the-gods/"}
 ---
 
-This is an article discussing journalist **Graham Hancock** and his foundational work, *Fingerprints of the Gods* (1995) and its related hypothesis: There was a global civilization that existed before the Younger Dryas period (~12'800-11'600 YBP).
+This is an article discussing journalist **Graham Hancock** and his recent work, *Ancient Apocalypse* (2022) and its related hypothesis: There was a global civilization that existed before the Younger Dryas period (~12'800-11'600 YBP).
 > *"There was a lost, globe-spanning, advanced civilization at the end of the last ice age."* — Graham Hancock
 ## Preamble
 It should go without saying that this article is **not** composed out of hatred for Hancock or prejudice against his hypothesis. This is a topic that is very interesting for me, and once upon a time, I subscribed wholly to Graham's ideas.
@@ -16,7 +16,7 @@ This is the most difficult faucet of Hancock's hypothesis to pin down. Conservat
 ~~However, it should be noted that this is likely a facetious description, composed with deliberate ambiguity as to delay the reader's understanding that this thesis carries with it claims of telepathy, telekinesis, and other psychic abilities that these prior peoples may have possessed.~~
 ## How do you prove a lost civilization?
 - **Cultural layers.** Stratigraphic layers of soil that contain evidence for human habitation. Currently one of the most useful and reliable methods for determining mankind's presence in a given area and time period.
-- **Material culture.** At this point, this evidence would likely exist in a cultural layer. Material culture refers to things like statues, distinct architecture, or tools and miscellaneous goods (such as jewelry, pottery, etc.)
+- **Material culture.** Statues, architecture, or tools and miscellaneous goods (such as jewelry, pottery, etc.) that all point towards a singular group of peoples; the material remains of cultures that came before. Often found in *cultural layers*.
 - **Structural evidence.** Among our earliest known civilizations exist remnants of structures, whether that comes in the form of remaining foundations, standing structures, or historical accounts of said structures.
 
 > "Extraordinary claims require extraordinary evidence." — Carl Sagan
@@ -33,9 +33,10 @@ At its zenith, the rise in sea level resulting from Meltwater Pulse 1B achieved 
 ---
 # Global Phenomenon
 ---
-## 'Pyramids'
+## Pyramids
 ### On Granite and Hardness
 ## Symbols
+## Flood Myths
 # Conclusion
 ---
 **Probably not.**
@@ -57,14 +58,14 @@ The issue with this method in relation to Hancock's thesis (in the rare circumst
 That there exists no known human cultural layers (or any human evidence for that matter) in these time periods *likely* points to the fact that humans did not inhabit these areas at these times.
 
 **Non-arguments.**
-Hancock has a habit of presenting 
+Hancock has a habit of presenting a scenario in which the conclusion becomes 'this cannot be because I do not believe it to be so'.
 
 ## Postscript/Personal Conclusions
 Popular characters like Jimmy Corsetti and Dan Richards, alongside the alumni that fail to properly reckon with these facts, do a vast disservice to the broader perception of historians (professional and hobbyist alike) who are invested in the topics of prehistoric flooding, the ice age, and humanity's place in this tumultuous time by voicing unsubstantiated claims on platforms that fail to challenge them. Their engagement in these theses, while admirable on the surface, lays fertile ground for the compounding of conspiracy theories that have no basis in fact.
 
 > *"Goodness knows what has been lost to rising sea levels."* — Graham Hancock
 
-These are deeply interesting topics for me: Mankind's place in the ice age and before, warming and cooling periods, and the possibility of a flood (or floods) that might corelate to historical accounts (Genesis, Sumerian mythos, etc.). The rise in prominence in these so-called *alternative historians* makes genuine research into these topics difficult at best; At worst, it opens the doors for being labeled conspiracist or unscientific, thus dissuading discussion.
+These are deeply interesting topics for me: Mankind's place in the ice age and before, warming and cooling periods, and the possibility of a flood (or floods) that might corelate to semi-historical accounts (Genesis, Sumerian mythos, etc.). The rise in prominence in these so-called *alternative historians* makes genuine research into these topics difficult at best; At worst, it opens the doors for being labeled conspiracist or unscientific, thus dissuading discussion.
 
 If these people were truly interested in forwarding human history, they would be focusing their physical, mental, and monetary efforts towards funding and researching current archaeological projects and restoring museums, not appearing on talk shows to bolster their own misguided agendas. The history of our species is interesting enough without the insertion of fantastical empires that are unprovable by design.
 
