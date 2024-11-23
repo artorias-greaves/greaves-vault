@@ -34,7 +34,7 @@ The Baelic people make up the Tiragardian population of the [[Dungeons & Dragons
 ## Craven
 
 ## Lotharian
-The Lotharians, descendants of the god Tir, possess traces of ancient immortality in their blood. They are Tiragardians who remained loyal to their god following the God Wars, fleeing Fallen Tiragard and establishing a new center of power. Their immortality showed itself to be a curse, however, and now Lotharians are afflicted with everlasting lives in bodies that fail to support them. Their name comes from a folk hero named Lothar, a general of Tir who led the Lotharians out of Tiragard following its collapse.
+The Lotharians, direct descendants of the god Tir, possess traces of ancient immortality in their blood. They are Tiragardians who remained loyal to their god following the God Wars, fleeing Fallen Tiragard and establishing a new center of power. Their immortality showed itself to be a curse, however, and now Lotharians are afflicted with everlasting lives in bodies that fail to support them. Their name comes from a folk hero named Lothar, a general of Tir who led the Lotharians out of Tiragard following its collapse.
 
 Despite their harrowing appearance, tyrannical rulers, and cursed realm of fog, the Lotharians are the closest descendants of the first Tiragardians—and their kingdom the closest in form to ancient Tiragard.
 ## Sarnican

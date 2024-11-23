@@ -9,7 +9,7 @@
 
 This is an article discussing journalist **Graham Hancock** and his recent work, *Ancient Apocalypse* (2022) and its related hypothesis: There was a global civilization that existed before the Younger Dryas period (~12'800-11'600 YBP).
 > *"There was a lost, globe-spanning, advanced civilization at the end of the last ice age."* — Graham Hancock
-## Preamble
+# Preamble
 It should go without saying that this article is **not** composed out of hatred for Hancock or prejudice against his hypothesis. This is a topic that is very interesting for me, and once upon a time, I subscribed wholly to Graham's ideas. Naturally, this article should never prove as an excuse to dox, harass, or otherwise confront any persons mentioned.
 
 With that out of the way, let's ask the question:

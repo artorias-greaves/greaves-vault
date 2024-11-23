@@ -23,7 +23,9 @@ To make Living Grot, one must use an existing source. Once a container has held 
 > 
 > Once during a short or long rest, so long as you have access to a water source, you may refill your Living Grot.
 > 
-> The maximum number of charges and potency of your Living Grot can be improved by visiting Grottenders scattered throughout the realm. ~~Some Grottenders can even bless your grot with special effects.~~
+> The maximum number of charges and potency of your Living Grot can be improved by visiting Grottenders and finding unique ingredients scattered throughout the realm. 
+> 
+> ~~Some Grottenders can even bless your grot with special effects.~~
 
 
 
