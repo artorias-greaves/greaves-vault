@@ -28,7 +28,7 @@ These runestones, or runes, could be manipulated by said gods to change into var
 
 # Ehbing
 ---
-The most common and malleable source of magic came from the Ehb alongside the arrival of the Third Will. This magic, known as the Ehb, Ehb magic, or Ehbing, can control the earth, create elements, and enable the wielder to fly—among other spectacles like evocation or necromancy. Due to its ease of access and inherent potency, the vast majority of mages practice Ehbing.
+The most common and malleable source of magic came from the Ehb alongside the arrival of the Third Will. This magic, known as the Ehb, Ehb magic, or Ehbing, can control the earth, create elements, and enable the wielder to fly—among other spectacles like evocation or necromancy. Due to its ease of access and inherent potency, the vast majority of mages in the realm practice Ehbing.
 
 Invoking the Ehb to cast spells requires two preparations:
 1.  Access to a magical focus, such as an enchanted item or location;
