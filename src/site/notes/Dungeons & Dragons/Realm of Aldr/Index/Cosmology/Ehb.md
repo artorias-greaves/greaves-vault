@@ -6,6 +6,6 @@ The **Ehb**, controlled by [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Go
 
 Alongside this event also came Ehb magic, or Ehbing. [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] harnessed this primordial force, and the first wizards were born (within the realm—Ylvari had long-since mastered Ehbing).
 
-Access to the Ehb remains possible through a range of different methods, most of which involve the use of portals— though the Ehb is typically encountered by accident. Getting lost in a forest, stepping into a fairy ring, or walking through a door that was not there before are all frequently reported portals into the Ehb.
+Access to the Ehb as a realm remains possible through a range of different methods, most of which involve the use of portals— though the Ehb is typically encountered by accident. Getting lost in a forest, stepping into a fairy ring, or walking through a door that was not there before are all frequently reported portals into the Ehb.
 
 Ylvari may apparently access the Ehb at will, and have a connection to it that grants them an innate sense of direction and eliminates the need for sleep.

@@ -10,6 +10,7 @@
 
 **Adjective(s)**
 - Anwean
+- Anweite
 # Description
 ---
 # Personality
