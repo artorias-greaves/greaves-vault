@@ -23,8 +23,7 @@ Sheltered; downtime.
 - **Felled.** Upon reaching 0 hitpoints, rather than falling unconscious, you are felled. This condition follows the same rules as unconscious but you can still speak, and you're still aware of your surroundings. You have a movement of 1 that does not prompt attacks of opportunity as you slowly crawl from danger. You will still die if you fail all of your death saves.
 
 ## Related Links
-- [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Burg Rot\|Burg Rot]]
-- [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Gods of the Realm\|Gods of the Realm]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Grot\|Grot]]
+- [[Dungeons & Dragons/Realm of Aldr/Index/Monsters/Nightgaunt\|Nightgaunt]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Outer Bailey\|Outer Bailey]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Travel\|Travel]]
