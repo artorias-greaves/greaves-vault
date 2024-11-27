@@ -19,9 +19,6 @@ Alas, the site where this is published is very limited. You may find the formatt
 ## Party Status
 Sheltered; downtime.
 
-## House Rules
-- **Felled.** Upon reaching 0 hitpoints, rather than falling unconscious, you are felled. This condition follows the same rules as unconscious but you can still speak, and you're still aware of your surroundings. You have a movement of 1 that does not prompt attacks of opportunity as you slowly crawl from danger. You will still die if you fail all of your death saves.
-
 ## Related Links
 - [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Grot\|Grot]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Monsters/Nightgaunt\|Nightgaunt]]
