@@ -17,7 +17,7 @@ Must be endorsed by existing clanmate to join.
 
 **Location(s)**
 - [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Aerie\|Aerie]]
-- Guild
+- **Guild**
 
 **Notable Members**
 - [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Sapra\|Sapra]]. The current leader of the Noosemen. Brutal and efficient, she is feared and respected by most of the city—even if they don’t know who she is.

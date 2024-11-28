@@ -9,7 +9,7 @@ Out of darkness, out of night.
 
 **Membership**
 The faithful of Tir.
-Must enter a covenant to join.
+Must enter a divine covenant to join.
 
 **Location(s)**
 - [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Guild\|Guild]]
