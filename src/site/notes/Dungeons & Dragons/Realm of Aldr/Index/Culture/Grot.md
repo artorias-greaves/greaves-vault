@@ -21,18 +21,20 @@ A unique type of Grot emerged at some point following the migration of the [[Dun
 
 To make Living Grot, one must use an existing source. Once a container has held this type of grot, however, it is simple to use it to make a new batch—as if the cup were infected, hence Living Grot's name.
 
+## Grot Strains
+
 | Tier          | Healing | Grottender   |
 | ------------- | ------- | ------------ |
 | Living Grot   | 2d4+2   | [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Longkeep/Longkeep\|Longkeep]] |
-| Creeping Grot | 4d4+4   | *Unknown* |
+| Creeping Grot | 4d4+4   | [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Earthend\|Earthend]] |
 | Groaning Grot | 6d6+6   |      *Unknown*        |
 
+## Ingredients
 
 |  Blessing   |  Effect   |  Source   |
 | --- | --- | --- |
 |  Ancient Ember   |  Become immune to fire for 1 minute.   |  [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Pyre of the First Forest\|Pyre of the First Forest]]   |
-|  Magebark   |  Until your next turn, your starting AC is raised to 15, and your movement is reduced by 10 ft.   |  Forests   |
-|  Ehbworm   |  Restore a 1st-level spell slot.   |  [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Earthend\|Earthend]]   |
-|     |  Restore a 2nd-level spell slot.   |  *Unknown*   |
+|  Magebark   |  Until your next turn, your starting AC is raised to 15, and your movement is reduced by 10 ft.   |  Magical forests.   |
+|  Ehbworm   |  Restore a 1st-level spell slot.   |  Wizards; sorcerers; the Ehb.   |
 |  Octane   |  Explode in a fiery torrent. Each creature in a 10-foot radius must make a Dexterity saving throw. A target takes 4d6 fire damage on a failed save, or half as much damage on a successful one. Flammable objects hit by this spell ignite if they aren't being worn or carried.  |  *Unknown*   |
 |  Ragemead   |  Enter a **Rage**.   |  *Unknown*   |
