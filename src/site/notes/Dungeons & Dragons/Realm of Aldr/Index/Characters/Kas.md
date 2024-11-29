@@ -4,7 +4,7 @@
 
 ***Wandering Tiragardian***
 
-**Kas** is an enigmatic [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian#Lotharian\|Lotharian]], a living ghoul who roams the land as a wily and fearsome warrior. There is little known about his family origin, but it is rumored that he was once an adventurer who met an ill fate to a [[Dungeons & Dragons/Realm of Aldr/Index/Monsters/Galifax\|dragon]].
+**Kas** is an enigmatic [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian#Lotharian\|Lotharian]], a living ghoul who roams the land as a wily and fearsome warrior. There is little known about his family origin, but it is rumored that he was once an adventurer who met an ill fate to a [[Dungeons & Dragons/Realm of Aldr/Index/Monsters/Unique/Galifax\|dragon]].
 
 # Physical Characteristics
 ---
