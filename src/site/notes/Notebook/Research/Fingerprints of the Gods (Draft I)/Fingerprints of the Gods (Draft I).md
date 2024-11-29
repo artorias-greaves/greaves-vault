@@ -3,10 +3,6 @@
 ---
 
 
-**This article is written in part as a persuasive argument. Please see my [[About#Epistemic Disclosure\|epistemic disclosure]] before continuing.**
-
----
-
 This is an article discussing journalist **Graham Hancock** and his recent work, *Ancient Apocalypse* (2022) and its related hypothesis: There was a global civilization that existed before the Younger Dryas period (~12'800-11'600 YBP).
 > *"I am trying to overthrow the paradigm of history."* — Graham Hancock
 # Preamble
