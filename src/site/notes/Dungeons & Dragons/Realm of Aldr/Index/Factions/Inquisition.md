@@ -29,7 +29,7 @@ The Inquisition is organized in a strict hierarchy, with each rank held subject 
 
 **Inquisitor.** A mysterious and secretive caste who are seldom seen, much less spoken to. They are deft combatants and wielders of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Magic#Grace\|Grace]], and legend tells of their intense methods of interrogation.
 
-**Seeker.** The initiate rank. As fledgling servants of Tir, their mission is to provide information and infrastructure for the higher ranks, and serve as a vanguard on the field. Seekers are the eyes and ears of Tir. They obtain their instructions through ritual contact with the Burning Bishops through their [[Dungeons & Dragons/Realm of Aldr/Index/Artifacts/Censure of Grace\|holy censures]].
+**Seeker.** The initiate rank. As fledgling servants of Tir, their mission is to provide information and infrastructure to the higher ranks, and serve as a vanguard on the field. Seekers are the eyes and ears of Tir. They obtain their instructions through ritual contact with the Burning Bishops through their [[Dungeons & Dragons/Realm of Aldr/Index/Artifacts/Censure of Grace\|holy censures]].
 ## Covert Clerics
 Spies and agents make up the upper echelons of the Inquisition. They are venerable Tiragardians of great skill who oppose the Sarnhari directly, and conduct raids into Sarnica itself.
 # History

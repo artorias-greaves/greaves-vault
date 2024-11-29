@@ -11,7 +11,7 @@ The most commonly traded currency in the realm are fragments of these 'runed' st
 
 These stones (referred to as **runed stones**, **runestones**, or simply **runes**) can be found naturally in pockets underground, and makes up the bedrock of [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Coliseum/Coliseum\|Coliseum]]—The Underworld. The Warded Walls were made using runestone, and some suggest that other ancient Tiragardian structures may have been made with runestone as well. Due to its value, if they once existed, most have likely been dismantled.
 
-Instead of a currency, **gold** is used as a resource used in crafting, alchemy, and ritual. It is often associated with the demigods [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Demigods/Chem\|Chem]] and [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Demigods/Midastopheles\|Midastopheles]]. The city of Guild features many buildings and decorations made with gold.
+Instead of a currency, **gold** is used as a resource used in crafting, alchemy, and ritual. The city of [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Guild\|Guild]], for example, features architecture made out of a durable gold alloy. Gold is often associated with the demigods [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Demigods/Chem\|Chem]] and [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Demigods/Midastopheles\|Midastopheles]]. 
 # Runesmiths & Mending
 ---
 Runesmiths use ancient magics to make full use of runes. An apprentice runesmith can use runes to cast specific spells or make minor conjurations, but a skilled practitioner can enchant weapons, create magical scrolls, and ward armor and shields from attacks.

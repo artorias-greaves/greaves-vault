@@ -17,7 +17,7 @@ Invoking the Ehb to cast spells requires two preparations:
 The Ehb can be manipulated to produce imitations of the other forms of magic—superior in most ways, as they no longer require rituals—but rune magic remains unique to Dwarriden and those learned in the craft.
 # Fetish
 ---
-Darkness, manipulation, and destruction. This domain of magic, called Fetish magic or Fetishism* is reviled by [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] and [[Dungeons & Dragons/Realm of Aldr/Index/Races/Dwarriden\|Dwarriden]] alike. It carries with it the same mistrust that necromancy does in most other settings. Even in [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|Sarnica]], where this magic is revered, it is forbidden to possess knowledge of outside of the privileged castes. Practitioners of prophecy, clairvoyance, and telepathy—common faucets of Fetishism—are harassed by demonic entities that appear in dreams and trance.
+Darkness, manipulation, and destruction. This domain of magic, called Fetish magic or Fetishism is reviled by [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] and [[Dungeons & Dragons/Realm of Aldr/Index/Races/Dwarriden\|Dwarriden]] alike. It carries with it the same mistrust that necromancy does in most other settings. Even in [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|Sarnica]], where this magic is revered, it is forbidden to possess knowledge of outside of the privileged castes. Practitioners of prophecy, clairvoyance, and telepathy—common faucets of Fetishism—are harassed by demonic entities that appear in dreams and trance.
 > [!NOTE] 5th Edition Equivalents
 > - Necrotic damage type.
 > - Divination and dreams.

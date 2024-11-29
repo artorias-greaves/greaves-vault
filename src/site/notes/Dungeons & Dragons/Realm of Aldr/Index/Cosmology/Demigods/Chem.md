@@ -26,16 +26,11 @@ Chem's realm is the Academy of Sorcerest. It is a prestigious, city-sized school
 ---
 ## Allies
 - [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Sarn\|Sarn]]
-## Enemies
 # Worship
 ---
 While Chem is not often actively worshipped, it is acknowledged that creating Alchemies pays direct homage to the demigod, and substantial inventions may catch his attention. 
 
-Chemists revere Alchemies as if they were divine objects.
-# History
----
-# Notes
----
+## Chemists
 # Gallery
 ---
 ![Chem, generated.png|300](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Chem,%20generated.png)

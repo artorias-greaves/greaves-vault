@@ -13,8 +13,3 @@ Tall and heroic, with a wide frame and brown hair pulled tightly into a bun. His
 # Mental Characteristics
 ---
 Like most of Tir's faithful, Elira embodies the virtues of order and lordship. He believes in a legal boundary between lord and serf. He carries on the old [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardian]] codes, even if they are now just a burden. He values heroism and justice for all, and seeks zealously to aid those around him.
-# Hooks
----
-# Gallery
----
-![[Elira Vael face reference.png\|Elira Vael face reference.png]]

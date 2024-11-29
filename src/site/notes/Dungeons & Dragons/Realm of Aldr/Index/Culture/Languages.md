@@ -7,7 +7,7 @@
 ## Imperial Common
 Known by most [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]], this language reflects the ancient dialect of the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Tiragard\|old empire]] after the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/God Wars\|God Wars]]. It shares many traits with its mother tongue, but sounds broken and harsh to the listener. Generally short words frequently contracted together.
 ## High Common
-The ancient language of the first Tiragardians. It is a rare, high-spoken language, fit for a race of kings and warriors. To know this language is to be well read, privileged of birth, or an inhabitant of the old empire.
+The ancient language of the first Tiragardians. It is a rare, high-spoken language, fit for a race of kings and warriors. To know this language is to be well read, privileged of birth, or an inhabitant of the old empire. Secluded Tiragardian settlements may still speak this dialect.
 ## Sarnic
 The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|Sarnicans]], [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Sarn\|Sarn]], and the foundation for the language of demons. Sarnic is associated with dark magics and untrustworthy warlocks. Be mindful of who you speak this language around.
 ## Tradespeak
@@ -21,5 +21,5 @@ The written language of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Outer
 
 ### Rûngar.
 The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Races/Dwarriden\|Dwarriden]]. This ancient language is presented as a collection of rumbles and vibrations, thought to be the vocalizations of the realm's runes.
-## Ylven
-The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Races/Ylvari\|Ylvari]].
+## Ehbil
+The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Races/Ylvari\|Ylvari]], [[Dungeons & Dragons/Realm of Aldr/Index/Monsters/Ulv\|Ulv]], and other creatures that come from the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Ehb\|Ehb]]. It is the language of most magical incantations. It carries with it magic in every spoken word and phrase.
