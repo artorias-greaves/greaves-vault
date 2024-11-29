@@ -32,11 +32,11 @@ To make Living Grot, one must use an existing source. Once a container has held 
 ## Ingredients
 Special ingredients may be found and added to your Living Grot to grant it unique effects that trigger upon consuming a charge. 
 
-|  Blessing   |  Effect   |  Source   |
+|  Blessing   |  Effect   |  Sources   |
 | --- | --- | --- |
-|  Ancient Ember   |  Become resistant to fire for 1 minute.   |  [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Pyre of the First Forest\|Pyre of the First Forest]]   |
-|  Magebark   |  Until your next turn, your starting AC is raised to 15, and your movement is reduced by 10 ft.   |  Magical forests.   |
-|  Ehbworm   |  Restore a 1st-level spell slot.   |  Wizards; sorcerers; the Ehb.   |
+|  Ancient Ember   |  Become resistant to fire for 1 minute.   |  Druids, [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Pyre of the First Forest\|Pyre of the First Forest]]   |
+|  Magebark   |  Until your next turn, your starting AC is raised to 15, and your movement is reduced by 10 ft.   |  Magical forests   |
+|  Ehbworm   |  Restore a 1st-level spell slot.   |  Wizards; sorcerers; the Ehb   |
 |  Octane   |  Explode in a fiery torrent. Each creature in a 10-foot radius must make a Dexterity saving throw. A target takes 4d6 fire damage on a failed save, or half as much damage on a successful one. Flammable objects hit by this spell do not ignite.  |  *Unknown*   |
-|  Ragemead   |  Enter a **Rage**.   |  *Unknown*   |
+|  Ragemead   |  Enter a **Rage**.   |  Chemists   |
 |  Swift   |  Gain an extra action for this turn.   |  *Unknown*   |
