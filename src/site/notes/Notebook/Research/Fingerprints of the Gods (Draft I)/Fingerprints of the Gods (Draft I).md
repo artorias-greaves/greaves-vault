@@ -3,22 +3,28 @@
 ---
 
 
-This is an article discussing journalist **Graham Hancock** and his recent work, *Ancient Apocalypse* (2022) and its related hypothesis: There was a global civilization that existed before the Younger Dryas period (~12'800-11'600 YBP).
-> *"I am trying to overthrow the paradigm of history."* — Graham Hancock
+This is an article discussing journalist **Graham Hancock** and his recent work, *Ancient Apocalypse* (2022) and its related hypothesis: There was a global civilization that existed before the Younger Dryas period (~12'800-11'600 years before present (YBP))—referred to here as the Hancock Civilization.
+
 # Preamble
-It should go without saying that this article is **not** composed out of hatred for Hancock or prejudice against his hypothesis. This is a topic that is very interesting for me, and once upon a time, I subscribed wholly to Graham's ideas. Naturally, this article should never prove as an excuse to dox, harass, or otherwise confront any persons mentioned.
+This is a difficult topic to write about—not because the claims and evidences are so broad and complicated (thought they certainly are)—but because Hancock is not in the business of reckoning with evidence or engaging in peer review altogether. He will enter debate with the hypothesis above, then when his purported evidence is disproved as being related, he will say it is 'something that needs be looked into' or 'I do not believe this'—as if hosts of academics and laymen alike, many of whom have greater resources than Hancock, have not already formed their own conclusions. He will shift his angle of attack then, and instead propose an alleged tyrannical dogma that exists in the scientific community, and is implicit in the broader lack of evidence.
+
+It is for these reasons that, while the Hancock Civilization is the primary subject of this article, it will delve also into claims of this alleged bigotry, and bring light to Graham's ideology.
+
+> *"I am trying to overthrow the paradigm of history."* — Graham Hancock
+
+It should go without saying that this article is **not** composed out of hatred for Hancock or prejudice against his hypothesis. Naturally, this article should never prove as an excuse to dox, harass, or otherwise interact with any persons mentioned.
 
 With that out of the way, let's ask the question:
 
 **Did there exist an advanced, globe-spanning civilization at the end of the last ice age?**
 ## What is 'advanced'?
-This is the most difficult faucet of Hancock's hypothesis to pin down. Conservatively, Hancock (and others) will simply claim that 'advanced' means 'more advanced than currently thought'. For the purposes of this article, this is the definition that is used.
+This is the most difficult faucet of Hancock's hypothesis to pin down. Conservatively, Hancock will simply claim that 'advanced' means 'more advanced than currently thought of people at the time'. For the purposes of this article, this is the definition that is used.
 
-~~However, it should be noted that this is likely a facetious description, composed with deliberate ambiguity as to delay the reader's understanding that this thesis carries with it claims of telepathy, telekinesis, and other psychic abilities that these prior peoples may have possessed.~~
+~~However, it should be noted that this is likely a facetious description, composed with deliberate ambiguity as to delay the reader's understanding that Hancock's Civilization carries with it claims of giants, telekinesis, and other psychic abilities that these prior peoples may have possessed. **It is important to note that Hancock does not explicitly subscribe to these ideas.**~~ (( FIX THIS ))
 ## How do you prove a lost civilization?
-- **Cultural layers.** Stratigraphic layers of soil that contain evidence for human habitation. Currently one of the most useful and reliable methods for determining mankind's presence in a given area and time period.
-- **Material culture.** Statues, architecture, or tools and miscellaneous goods (such as jewelry, pottery, etc.) that all point towards a singular group of peoples; the material remains of cultures that came before. Often found in *cultural layers*.
-- **Structural evidence.** Among our earliest known civilizations exist remnants of structures, whether that comes in the form of remaining foundations, standing structures, or historical accounts of said structures.
+- **Cultural layers.** Stratigraphic layers of soil that contain evidence for human habitation, such as tools, seeds, bones, etc. One of the most useful and reliable evidences for determining mankind's presence in a given space and time.
+- **Material culture.** Statues, architecture, or tools and miscellaneous goods (such as jewelry, pottery, etc.) that all point towards a singular group of peoples; the material remains of cultures that came before. Often found in *cultural layers*—material culture may more strongly suggest Hancock's Civilization than a cultural layer on its own.
+- **Structural evidence.** Among our earliest known civilizations exist remnants of structures, whether that comes in the form of remaining foundations, standing structures, or historical accounts of said structures. 
 
 > "Extraordinary claims require extraordinary evidence." — Carl Sagan
 
@@ -28,8 +34,11 @@ If there existed a civilization in this time period (12'800-11'600 YBP)—especi
 ![Ice Accumulation by Age.png](/img/user/Attachments/Notebook%20Attachments/Ice%20Accumulation%20by%20Age.png)
 ## Meltwater Pulse 1B
 At its zenith, the rise in sea level resulting from Meltwater Pulse 1B achieved a mere 1.7 inches (~40mm) per year. This is hardly the apocalyptic scenario that Hancock presents.
-# Sphinx Water Erosion Hypothesis
+# Great Sphinx of Giza
 ---
+## Water Erosion
+## Hidden Chambers
+## Astronomical Alignment
 # Drumheller Channels
 ---
 # Global Phenomenon

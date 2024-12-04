@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/cosmology/demigods/chem/"}
 ---
 
-**Chem** is a demigod of the realm, commonly associated with [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Alchemies\|Alchemies]], mathematics, and medicine. He is an unpredictable [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardian]] who is cursed into the form of a dragon. Chem is one of the [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Six-Eyed Sages\|Six-Eyed Sages]] who govern the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Academy of Sorcerest\|Academy of Sorcerest]].
+**Chem** is a demigod of the realm, commonly associated with [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Alchemies\|Alchemies]], mathematics, and medicine. He is an unpredictable [[Dungeons & Dragons/Realm of Aldr/Index/Species/Tiragardian\|Tiragardian]] who is cursed into the form of a dragon. Chem is one of the [[Dungeons & Dragons/Realm of Aldr/Index/Factions/Six-Eyed Sages\|Six-Eyed Sages]] who govern the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Academy of Sorcerest\|Academy of Sorcerest]].
 
 This demigod's many inventions span the realm for better or worse; some of Chem's alchemies mend wounds and bar evil, while others produce deep-rooted addictions, or invoke dangerous, altered states of consciousness and bodily function.
 

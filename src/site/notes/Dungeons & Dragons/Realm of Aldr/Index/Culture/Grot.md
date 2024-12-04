@@ -4,11 +4,11 @@
 
 **Grot** is a commonly consumed beverage in the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Outer Bailey\|Outer Bailey]]. It consists of a mash of rotted or fermented grains, fruit, and other, often suspect sources of sugar. The resulting suspension is commonly alcoholic, and its potency varies wildly from batch to batch. 
 
-While Grot is a favorite amongst the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Undeath\|Undead]], living [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] might find the drink repulsive.
+While Grot is a favorite amongst the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Undeath\|Undead]], living [[Dungeons & Dragons/Realm of Aldr/Index/Species/Tiragardian\|Tiragardians]] might find the drink repulsive.
 
 # Living Grot
 ---
-A unique type of Grot emerged at some point following the migration of the [[Dungeons & Dragons/Realm of Aldr/Index/Races/Ylvari\|Ylvari]]. It is a fast-fermenting, mildly alcoholic drink that boosts morale and restores strength. Some claim this so-called *Living Grot* is capable of mending wounds and curing ailments in higher concentrations.
+A unique type of Grot emerged at some point following the migration of the [[Dungeons & Dragons/Realm of Aldr/Index/Species/Ylvari\|Ylvari]]. It is a fast-fermenting, mildly alcoholic drink that boosts morale and restores strength. Some claim this so-called *Living Grot* is capable of mending wounds and curing ailments in higher concentrations.
 
 > [!NOTE] 5th Edition
 > *Living Grot* is the realm's equivalent to Potions of Healing.
@@ -34,8 +34,8 @@ Special ingredients may be found and added to your Living Grot to grant it uniqu
 
 |  Blessing   |  Effect   |  Sources   |
 | --- | --- | --- |
-|  Ancient Ember   |  Become resistant to fire for 1 minute.   |  Druids, [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Pyre of the First Forest\|Pyre of the First Forest]]   |
-|  Magebark   |  Until your next turn, your starting AC is raised to 15, and your movement is reduced by 10 ft.   |  Magical forests   |
+|  Ancient Ember   |  Become immune to fire for 1 minute.   |  Druids, [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Pyre of the First Forest\|Pyre of the First Forest]]   |
+|  Magebark   |  Until your next turn, gain +10 to your armor class and reduce your movement speed to 5ft.   |  Magical forests   |
 |  Ehbworm   |  Restore a 1st-level spell slot.   |  Wizards; sorcerers; the Ehb   |
 |  Octane   |  Explode in a fiery torrent. Each creature in a 10-foot radius must make a Dexterity saving throw. A target takes 4d6 fire damage on a failed save, or half as much damage on a successful one. Flammable objects hit by this spell do not ignite.  |  *Unknown*   |
 |  Ragemead   |  Enter a **Rage**.   |  Chemists   |

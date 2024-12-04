@@ -12,7 +12,7 @@ A physically tough and able woman with dark, olive skin and ragged hair put in a
 Deep and butch feminine. Righteous. Crestfallen.
 # Mental Characteristics
 ---
-Like most of Tir's faithful, Lumen embodies the virtues of order and lordship. She believes in a legal boundary between lord and serf. She carries on the old [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardian]] codes, even if they are now just a burden. She values loyalty and honesty.
+Like most of Tir's faithful, Lumen embodies the virtues of order and lordship. She believes in a legal boundary between lord and serf. She carries on the old [[Dungeons & Dragons/Realm of Aldr/Index/Species/Tiragardian\|Tiragardian]] codes, even if they are now just a burden. She values loyalty and honesty.
 # History
 ---
 # Hooks

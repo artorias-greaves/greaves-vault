@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/artifacts/ring-of-ancient-honor/"}
 ---
 
-Once per day, as an action, you may summon the spirit of a [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardian]] warrior to aid you in combat. The spirit lasts until it is slain or dispelled with an action.
+Once per day, as an action, you may summon the spirit of a [[Dungeons & Dragons/Realm of Aldr/Index/Species/Tiragardian\|Tiragardian]] warrior to aid you in combat. The spirit lasts until it is slain or dispelled with an action.
 # Stat Block
 ---
 *Medium undead, Lawful Neutral*

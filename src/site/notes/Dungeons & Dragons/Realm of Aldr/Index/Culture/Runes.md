@@ -18,4 +18,4 @@ Runesmiths use ancient magics to make full use of runes. An apprentice runesmith
 
 Most runesmiths possess the ability to enchant weapons, armor, and artifacts by consuming runes. Likewise, they may also disenchant magical items to recover runes from within. The most fundamental of these enchantments renders the item immune to the forces of time, nature, and force; a sword that does not dull or rust.
 
-[[Dungeons & Dragons/Realm of Aldr/Index/Races/Dwarriden\|Dwarriden]] make exceptional runesmiths. All Dwarriden possess the gift of Mending: An ancient, cosmic art from [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Outer Influences/Anwe\|The Maker]] that can restore any item to its intended condition by consuming the mana within runes.
+[[Dungeons & Dragons/Realm of Aldr/Index/Species/Dwarriden\|Dwarriden]] make exceptional runesmiths. All Dwarriden possess the gift of Mending: An ancient, cosmic art from [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Outer Influences/Anwe\|The Maker]] that can restore any item to its intended condition by consuming the mana within runes.

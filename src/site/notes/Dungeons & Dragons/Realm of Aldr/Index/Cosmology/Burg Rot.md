@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/cosmology/burg-rot/"}
 ---
 
-**Burg Rot** is a curse that targets [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]] and travels across structures in the form of a black mold to reach potential victims. When it infects a host, it begins as black spots forming on fingers and toes, growing in size and progressing towards the heart via the veins and capillaries.
+**Burg Rot** is a curse that targets [[Dungeons & Dragons/Realm of Aldr/Index/Species/Tiragardian\|Tiragardians]] and travels across structures in the form of a black mold to reach potential victims. When it infects a host, it begins as black spots forming on fingers and toes, growing in size and progressing towards the heart via the veins and capillaries.
 
 While this curse progresses, the host's mind begins to deteriorate into a violent and withdrawn state. It takes anywhere from two days to six weeks for Burg Rot to progress to a point in which the victim loses all meaningful control over their body—at which point they will either petrify and lie dormant, or immediately seek out a victim to infect.
 

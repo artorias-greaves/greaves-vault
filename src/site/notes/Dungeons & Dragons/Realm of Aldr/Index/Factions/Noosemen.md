@@ -24,7 +24,7 @@ Must be endorsed by existing clanmate to join.
 - [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Arek the Axe\|Arek the Axe]]. A Nooseman who is sympathetic to the city and feels the clan has lost its way. He seeks to have Sapra killed to take her place.
 # Organization
 ---
-The Noosemen consists solely of male and female [[Dungeons & Dragons/Realm of Aldr/Index/Races/Tiragardian\|Tiragardians]]. Each Nooseman wears a tattered hood and noose around their neck, which is used both as identification and rhetoric.
+The Noosemen consists solely of male and female [[Dungeons & Dragons/Realm of Aldr/Index/Species/Tiragardian\|Tiragardians]]. Each Nooseman wears a tattered hood and noose around their neck, which is used both as identification and rhetoric.
 ## Leadership
 They are led by an articulate and dangerous rogue called Sapra.
 ## Activities
