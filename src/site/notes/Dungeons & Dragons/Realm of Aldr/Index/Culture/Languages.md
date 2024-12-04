@@ -19,7 +19,7 @@ However effective it may be, Tradespeak is incredibly rudimentary, and lacks the
 ## Runic
 The written language of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Outer Influences/Anwe\|Anwe]], inscribed in the runestones that make up the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Warded Walls\|Warded Walls]] and used to communicate with the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Inner Influences/Inner Influences\|younger gods]]. The language of creation itself, but very rarely are samples found as full letters.
 
-### Rûngar.
+### Rûngar
 The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Species/Dwarriden\|Dwarriden]]. This ancient language is presented as a collection of rumbles and vibrations, thought to be the vocalizations of the realm's runes.
 ## Ehbil
 The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Species/Ylvari\|Ylvari]], [[Dungeons & Dragons/Realm of Aldr/Index/Monsters/Ulv\|Ulv]], and other creatures that come from the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Ehb\|Ehb]]. It is the language of most magical incantations. It carries with it magic in every spoken word and phrase.
