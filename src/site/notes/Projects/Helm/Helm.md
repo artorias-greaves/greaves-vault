@@ -143,6 +143,6 @@ Unless specifically stated, all abilities may stack onto each other.
 | Project Lead   | Greaves                                          |
 | Artists        | Jan & Vlad Schwarts                              |
 | Contributors   | Claret Coin<br>Quillspark<br>Swordpunk<br>Winter |
-| Created        | 2022-11-09                                       |
+| Created        | 2022                                             |
 | Created By     | Greaves                                          |
 | Special Thanks | Battered Buckler                                 |

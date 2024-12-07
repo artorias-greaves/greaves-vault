@@ -16,8 +16,6 @@ Longkeep's long keep is (or was) located atop a small knoll, while the hamlet be
 # Culture
 ---
 The survivors of Longkeep are aggressive and slow to trust, likely due to the misfortune that befalls their budding settlement. Many settlers are openly hostile to magics aside from [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Magic#Grace\|Grace]].
-# Defenses
----
 # History
 ---
 After the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/God Wars\|God Wars]], survivors from [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Guild\|Guild]] settled in the ruins of Longkeep and began to work its nearby resources. A time later, the inhabitants of this budding hamlet began to experience strange dreams and, rarely, disappearances. When the herald's daughter went missing, he sought the help of the party to bring her back in return for vital supplies.

@@ -16,7 +16,7 @@ After the God Wars, he rallied his loyal followers to establish a new nation bey
 - Sarnite
 # Description
 ---
-Sarn is recorded to inhabit the realm in a wide variety of forms, though they are most commonly fair-faced, soft-spoken male or female Tiragardians. They commonly wear black cloaks or an obsidian [[Dungeons & Dragons/Realm of Aldr/Index/Artifacts/Sarnican Masque\|Sarnican Masque]]. None of these forms of Sarn make sound when they move, nor do they leave a trail. He can be seen with or without horns.
+Sarn is recorded to inhabit the realm in a wide variety of forms, though they are most commonly fair-faced, soft-spoken male or female Tiragardians. They commonly wear black cloaks or an obsidian [[Dungeons & Dragons/Realm of Aldr/Index/Artifacts/Sarnican Masque (Vaté)\|Sarnican Masque (Vaté)]]. None of these forms of Sarn make sound when they move, nor do they leave a trail. He can be seen with or without horns.
 ## Avatar: The Horned God
 Sarn's divine body is the king of demons: A monstrous Tiragardian with flowing hair, black horns, and a terrifying visage. He embodies the spirit of demons seen in the clouds of Hellpowder smoke. Every movement he makes is accompanied with the sound of rattling chains.
 # Personality

@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/culture/alchemies/"}
 ---
 
-**Alchemies** derive their name from [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Demigods/Chem\|Chem]], a demigod and patron of the art who laid the foundation for this branch of experimentation in the realm. Every devoted user of the alchemies has at least heard of Chem and his inventions in passing.
+**Alchemies**, **Chemicals**, or **Chems**, derive their name from [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Demigods/Chem\|Chem]], a demigod and patron of the art who laid the foundation for this branch of experimentation in the realm. Every devoted user of the alchemies has at least heard of Chem and his inventions in passing.
 # Chemists
 ---
+Alchemists, bombardiers, addicts, and gunsmiths. These people and more are often referred to as chemists. In general, it refers to anyone who gains an advantage from alchemies.
 # List of Known Alchemies
 ---
 

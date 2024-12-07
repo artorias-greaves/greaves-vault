@@ -11,7 +11,7 @@ Food effects may stack with other food effects, but not themselves.
 
 - **Chewstick (25r).** A common ration amongst travelers, this lightweight food is as nutritious as it is tough. Made from dehydrated cactus or twigs.
 
-- **Dragon Steak (125r).** A dried chunk of tough, sour drake meat. Induces a high body heat when eaten.
+- **Dragon Steak (75r).** A dried chunk of tough, sour drake meat. Induces a high body heat when eaten.
 	- Consuming one serving will give you resistance to fire damage until the next long rest.
 
 - **Eye of Ylvari (200r).** You wouldn't.
