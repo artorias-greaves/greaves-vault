@@ -49,7 +49,7 @@ It is much more likely that the Torah, coming from the Middle East, was influenc
 ## On Monogamy
 Monogamy has been the cultural norm in most Middle Eastern cultures since the time of Hammurabi. Ancient Mesopotamian law widely dictates that adulterous women be put to death. It is also important to note that many Germanic cultures permitted concubines, or even encouraged them as a matter of prestige. 
 
-The claim that the Abrahamic religions may have adopted monogamy through observations or integrations with the northern European pagans is unlikely at best.
+The claim that the Abrahamic religions may have adopted monogamy through observations or integrations with northern European pagans is unlikely at best.
 # Yahweh-Iconoclasm Conspiracy*
 ---
 - The idea that Yahweh/the Jewish prime god of the time was 'constructed as a tool to enforce Zionism'; Monotheism and the iconoclasm that came with later Yahweh was a Jewish tool to promote their dogma.

@@ -74,7 +74,7 @@ Hancock has a habit of presenting a scenario in which the conclusion becomes 'th
 - Why do western scientists in particular seem to act in this dismissive and often abusive manner?
 - What were the true effects on humanity from the Younger Dryas Impact?
 ## Postscript/Personal Conclusions
-Popular characters like Jimmy Corsetti and Dan Richards, alongside the alumni that fail to properly reckon with these facts, do a vast disservice to the broader perception of historians (professional and hobbyist alike) who are invested in the topics of prehistoric flooding, the ice age, and humanity's place in this tumultuous time by voicing unsubstantiated claims on platforms that fail to challenge them. Their engagement in these theses, while admirable on the surface, lays fertile ground for the compounding of conspiracy theories that have no basis in fact.
+Popular characters like Jimmy Corsetti and Dan Richards, alongside the alumni that fail to properly reckon with these facts, do a vast disservice to the broader perception of historians (professional and hobbyist alike) who are invested in the topics of prehistoric flooding, the ice age, and humanity's place in this tumultuous time by voicing unsubstantiated claims on platforms that fail to challenge them. Their engagement in these theses, while admirable on the surface, lays fertile ground for the compounding of conspiracy theories that subtract from the trust of scientific institutions.
 
 > *"Goodness knows what has been lost to rising sea levels."* — Graham Hancock
 
