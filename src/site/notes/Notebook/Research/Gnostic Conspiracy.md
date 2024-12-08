@@ -32,9 +32,10 @@ This is an article discussing a conversation[^1] between Adam Green, Gnostic Inf
 ---
 Throughout the conversation, the commentators make the claim that the Old and New Testaments were likely influenced by Platonic teachings. This is because there are a vast number of similarities between Plato's ideas and Biblical law, as well as Plato being a contemporary figure during the alleged composing of the Torah.
 
-This first, of course, relies on the posit that the Torah did not exist prior to the time of Plato (c. 400-300 B.C.). However, should this be the case, there existed a broader array of schools of thought that were both closer geographically to Judea and Babylon, *and* more closely reflect the laws codified in the Torah. If we push the dating of the Spoken Torah back, these potential influences expand dramatically, covering the entirety of the Levant, much of Mesopotamia, and even parts of North Africa.
+This first, of course, relies on the posit that the Torah did not exist prior to the time of Plato (c. 400-300 B.C.). However, should this be the case, there existed a broader array of schools of thought that were both closer geographically to Judea and Babylon, *and* more closely reflect the laws codified in the Torah. If we push the dating of the Spoken Torah back, these potential influences expand dramatically, covering the entirety of the Levant, much of Mesopotamia, and even into the Indus Valley.
 ## Zoroastrianism
-
+- Essentially Christianity + the Demiurge concept, complete with a central prophet figure, from ~200 years before Plato and probably even earlier.
+	- Aligns much more closely with archaeological Israel.
 ## Code of Hammurabi
 The Code of Hammurabi is a significant legal document from ancient Babylon which dates back to roughly 1750 B.C.. It contains many familiar concepts to the laws of the Old Testament. Even the many allusions to sheep, which the commentators claim is another inspiration drawn from Plato's work, has been a significant cultural meme for at least a thousand years prior.
 > "I am Hammurabi, the shepherd, selected by the god Enlil.
@@ -47,7 +48,7 @@ It is broadly accepted by historians and archaeologists that the Code of Hammura
 It is much more likely that the Torah, coming from the Middle East, was influenced by *local*, contemporary philosophies, rather than those in Greece. Evidence in DNA and language suggest the bulk of evolution in Jewish culture and religion took place in the Levant, Mesopotamia, and the land between.
 
 ## On Monogamy
-Monogamy has been the cultural norm in most Middle Eastern cultures since the time of Hammurabi. Ancient Mesopotamian law widely dictates that adulterous women be put to death. It is also important to note that many Germanic cultures permitted concubines, or even encouraged them as a matter of prestige. 
+Monogamy has been the cultural norm in most Middle Eastern cultures since the time of Hammurabi. Ancient Mesopotamian law widely dictates that adulterous women be put to death. It is also important to note that many Germanic cultures permitted concubines, or even encouraged them as a matter of prestige.
 
 The claim that the Abrahamic religions may have adopted monogamy through observations or integrations with northern European pagans is unlikely at best.
 # Yahweh-Iconoclasm Conspiracy*

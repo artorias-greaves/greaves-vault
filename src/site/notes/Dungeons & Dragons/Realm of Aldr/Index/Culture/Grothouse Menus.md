@@ -16,7 +16,7 @@ Food effects may stack with other food effects, but not themselves.
 	- Consuming one serving will give you resistance to fire damage until the next long rest.
 
 - **Eye of Ylvari (200r).** An unfortunately common ingredient in potions and salves meant to increase focus and connection to the Ehb. Sometimes served as delicacy.
-	When you consume an Eye of Ylvari, your intelligence and wisdom scores increase to 20 for the next 5 minutes. After those 5 minutes pass, both scores are reduced to 5 until your next long rest.
+	- When you consume an Eye of Ylvari, your intelligence and wisdom scores increase to 20 for the next 5 minutes. After those 5 minutes pass, both scores are reduced to 5 until your next long rest.
 ## Drink
 Drink effects may stack with other drink effects *and* themselves.
 - **Blackbrew (25r).** A common drink in the Outer Bailey made from ground, roasted beans. So-called due to its dark brown or black color. Non-alcoholic.
