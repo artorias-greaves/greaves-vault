@@ -37,7 +37,7 @@ Significant factors in composing engaging combat encounters that I've noticed in
 	- Encounters that go on for more than 2 rounds are doomed to hear the same awkward descriptions from me over and over.
 	- Are you guys really holding a coherent mental image throughout our combat encounters? i.e. Is choreographing combat's every action worth it? If not, which ones?
 	- ==The shorter the encounter, generally, the better.==
-		- This necessitates a **baseline unforgiving combat environment**, which may dissuade roleplay-centric decisions by design (encourages genuine tactics and planning though!).
+		- This necessitates a **baseline unforgiving combat environment**, which may dissuade certain roleplay-centric decisions by design (encourages genuine tactics and planning though!).
 - ==I rely almost solely on the board==; the call to initiative turns the game from a collaborative storytelling exercise, existing mostly in the theatre of the mind, into a wargame that you would not otherwise care to describe further than "my knight hits your warlock for 6 damage". In short, ==it turns into a video game==.
 - Choreographing ==combat is exhausting and leaves open a wide door for me to forget something== and break the flow of the game; I don't need a combat encounter to forget that an NPC has been beside you the whole session, apparently just silently observing.
 ## 'The Third Target'
@@ -53,7 +53,7 @@ Significant factors in composing engaging combat encounters that I've noticed in
 	- Alas, I feel these are some of the most effective skills a DM can have.
 # Alternative Rulesets
 ---
-Options that may be worth exploring at some point. 5th edition as written has fundamental conditions that I feel negatively impact engagement in combat-oriented gameplay.
+Options that may be worth exploring at some point. 5th edition as written has fundamental conditions that I feel negatively impact engagement in combat-oriented gameplay. That being said, ==I'm not entirely convinced it would be better to change the rules that we've been familiarizing ourselves with for years.==
 ## Visceral Roll System
 Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 ### Initiative
