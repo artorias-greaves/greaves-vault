@@ -46,7 +46,7 @@ Significant factors in composing engaging combat encounters that I've noticed in
 	- **Time.** A hostage is about to be executed. The compound is about to explode. The 'third target' here relates to the constraint of time, typically a limit in turns elapsed.
 	- **Cargo.** Someone needs to be kept alive, or something needs to be kept safe—and the bad guys are trying to achieve the opposite. Often ties in well with a time constraint.
 	- **Environment.** Fire makes the oil burn. Ice makes the ground slippery. This ledge is awful steep, and that wall looks ready to fall. The archers are using a river to their advantage, and armored knights hold a narrow doorway.
-	- **Stake.** Naturally, the higher the stakes (provided they are developed—the death of a five-minute friend is forgotten in five minutes), the more invested the players will be in the moment.
+	- **Precious.** Naturally, the higher the stakes (provided they are developed—the death of a five-minute friend is forgotten in five minutes), the more invested the players should be in the moment.
 - Highly ==effective as a template for interesting encounters, but fails to address the underlying issues== in the 5e combat cycle, and limitations that some DMs face—even compounding the latter.
 ## DM's Limitations
 - ==Improvisation and multitasking are both difficult for me== as it relates to playing D&D (as player and DM). It's an issue that seems to persist through multiple layers of preparation and prevention—you might notice it most prominently in forgetting NPCs and events (within combat and without), changing voices or personalities, and tracking combat in general. 
