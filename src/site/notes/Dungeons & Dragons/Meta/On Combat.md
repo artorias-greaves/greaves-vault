@@ -50,7 +50,7 @@ Significant factors in composing engaging combat encounters that I've noticed in
 - Highly ==effective as a template for interesting encounters, but fails to address the underlying issues== in the 5e combat cycle, and limitations that some DMs face—even compounding the latter.
 ## DM's Limitations
 - ==Improvisation and multitasking are both difficult for me== as it relates to playing D&D (as player and DM). It's an issue that seems to persist through multiple layers of preparation and prevention—you might notice it most prominently in forgetting NPCs and events (within combat and without), changing voices or personalities, and tracking combat in general. 
-	- Alas, I feel these are some of the most effective skills a DM can have.
+	- Alas, I feel these are some of the most effective skills a DM can have, and lacking them is a significant source of our current qualms with combat.
 # Alternative Rulesets
 ---
 Options that may be worth exploring at some point. 5th edition as written has fundamental conditions that I feel negatively impact engagement in combat-oriented gameplay. That being said, ==I'm not entirely convinced it would be better to change the rules that we've been familiarizing ourselves with for years.==
