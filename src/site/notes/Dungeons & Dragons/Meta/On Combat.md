@@ -98,5 +98,5 @@ Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 ## From Here?
 - Without altering 5e's combat system:
 	- *Planned* combat encounters can always be deliberately crafted as thought-provoking puzzles with flexible and fulfilling solutions, **but:**
-	- There will probably *always* be a recurring 'break' in engagement or immersion that occurs due to matters relating to the bloated combat system and my ability to choreograph varied actions on the fly (among other issues).
+	- There will probably *always* be a recurring 'break' in engagement or immersion that occurs due to matters relating to the bloated combat system and my ability to choreograph varied actions and behaviors on the fly (among other issues).
 - Improvement comes from practice, so it follows that each successive combat raises the chances that we'll enjoy the next. In any case, we're all enjoying the game enough now to come back next week.
