@@ -57,7 +57,8 @@ Options that may be worth exploring at some point. 5th edition as written has fu
 ## Visceral Roll System
 Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 ### Initiative
-- Initiative is no longer rolled. The DM dictates turn order based on player readiness and in-world circumstances.
+- Initiative is no longer rolled. The DM rapidly dictates turn order based on player readiness, character ability (*Alert*, for example), and in-world circumstances.
+	- Once all participating parties have acted, the turn order has been established and combat resumes as normal.
 ### Attack & Damage
 - You no longer make attack rolls. Instead, roll damage directly.
 - If you roll a 1, you miss. 
@@ -68,17 +69,22 @@ Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 	2. Following the first method, your lowest roll becomes your *Primary Die.*
 	3. Each die is its own 'mini' attack roll: Missing or critting with one has no impact on the other. Rolling with advantage or disadvantage is done with each die. This is a more chaotic method, ~~and it's objectively more fun and immersive than the former methods—but holy shit can that add up to a lot of dice rolling~~.
 ### Armor Class
-- Armor Class is now separated into broader categories:
-	- **None.** (AC 0-7) — The attacker is guaranteed to hit, circumstances permitting. Note that *Unarmored Defence* or an otherwise unarmored character does not necessarily fall under this category.
+- Armor Class is now separated into five broader categories:
+	- **Exposed.** (AC 0-7) — The attacker is guaranteed to hit, circumstances permitting. Note that *Unarmored Defence* or an otherwise unarmored character does not necessarily fall under this category.
 	- **Light.** (AC 8-12) — The attacker's damage applies as normal.
 	- **Medium.** (AC 13-17) — The attacker no longer uses their stat modifier when calculating damage.
 	- **Heavy.** (AC 18-20) — The attacker's damage is resisted (halved), in addition to the previous effect.
-	- **Extreme.** (AC 22+) — The attacker must crit to do damage, in addition to the previous effect.
-	- Resistance does not stack. For example, if a target takes damage it is naturally resistant to, while having a **Heavy** armor class, the target will take half damage as usual.
+	- **Reinforced.** (AC 22+) — The attacker must crit to do damage, in addition to the previous effect.
+	- Resistance does not stack. For example, if a target takes damage it is naturally resistant to, while having a *heavy* armor class, the target will take half damage as usual.
 ### Projected Results
 - **Pro:**
 	- **One less step.** Subtracting an entire section from 5th edition combat while retaining a similar semblance of balance and flow; simplifying this vital game process and potentially allowing the other pillars of D&D to shine brighter during combat encounters.
 	- **Armor classes.** Retaining armor class and armor archetypes as valuable choices for the players while keeping the new categories reasonable enough that the players feel both encouraged to boost their AC beyond the norm, and unburdened in trying to achieve an effect that relates to their character. In other words, it should still be as customizable as the original rule.
+	- **Greater combat dynamics.** Advantage is boring (and a bit more complicated in this system—see above). Instead, you did something to *expose* your enemy in combat, and now the next attack is guaranteed to hit. We would need to brainstorm a handful of new triggers, but here are some examples:
+		- Advantage against the target turns into an attack vs. *exposed* armor. Disadvantage is vs. *reinforced* armor.
+		- As an action, potentially render your target's armor *exposed* for the next attack made against it.
+			- As an action, become *reinforced* for the next attack made against you.
+	- **Immersive hit rate.** You're no longer prone to repeatedly missing a logically slower or weaker opponent on account of poor rolls.
 - **Con:**
 	- Fundamentally alters 5th edition balance without playtesting.
 	- Proficiency bonus no longer has any application in combat.
