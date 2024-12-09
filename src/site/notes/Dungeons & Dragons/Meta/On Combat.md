@@ -80,7 +80,7 @@ Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 - **Pro:**
 	- **One less step.** Subtracting an entire section from 5th edition combat while retaining a similar semblance of balance and flow; simplifying this vital game process and potentially allowing the other pillars of D&D to shine brighter during combat encounters.
 	- **Armor classes.** Retaining armor class and armor archetypes as valuable choices for the players while keeping the new categories reasonable enough that the players feel both encouraged to boost their AC beyond the norm, and unburdened in trying to achieve an effect that relates to their character. In other words, it should still be as customizable as the original rule.
-	- **Greater combat dynamics.** Advantage is boring (and a bit more complicated in this system—see above). Instead, you did something to *expose* your enemy in combat, and now the next attack is guaranteed to hit. We would need to brainstorm a handful of new triggers, but here are some examples:
+	- **Greater combat dynamics.** In the greatsword example above, a new question emerges as to whether or not each dice roll of the 2d6 could target a separate enemy. Also—advantage is boring (and a bit more complicated in this system—see above). Instead, imagine you did something to *expose* your enemy in combat, and now the next attack is guaranteed to hit. We would need to brainstorm a handful of new triggers, but here are some examples:
 		- Advantage against the target turns into an attack vs. *exposed* armor. Disadvantage is vs. *reinforced* armor.
 		- As an action, potentially render your target's armor *exposed* for the next attack made against it.
 			- As an action, become *reinforced* for the next attack made against you.
