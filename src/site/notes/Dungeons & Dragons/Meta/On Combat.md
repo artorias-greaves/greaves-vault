@@ -28,7 +28,7 @@ Significant factors in composing engaging combat encounters that I've noticed in
 		- Player: I check for the outcome.
 		- DM: This is the outcome.
 	- It often seems like the best combat encounters are those that are indistinguishable from the rest of the game, or even where actual, direct *fighting* is not happening. 
-		- Think incoming volleys of arrows while you scale a cliffside, for example. There are archer NPCs, they have an armor class of 13 and they're firing longbows at you with +2 to hit and 1d8 piercing damage—but I'm not making attack rolls vs. your AC. I don't bother with any of that. I'm likely describing the hail of arrows making you lose your grip, roll an athletics check please and thank you. If damage does occur here, it's not meant to kill you, but instead put a little notch in your resources that might give you a sense of urgency, or influence your decision making coming up.
+		- Think incoming volleys of arrows while you scale a cliffside, for example. There are archer NPCs, they have an armor class of 13 and they're firing longbows at you with +2 to hit and 1d8 piercing damage—but I'm not making attack rolls vs. your AC. I don't bother with any of that. I'm likely describing the hail of arrows making you lose your grip, roll an athletics check please and thank you. If damage does occur here, it's not meant to kill you, but instead put a little notch in your resources that might give you a sense of urgency, or influence your decision making for the next couple of encounters.
 			- Now imagine rules as written, where you are in a turn order and I'm trying to account for every literal attack roll made your way, while keeping record of everyone's stats, damage types, range... They are fundamentally different presentations of the same thing, but one is actually exciting to be a part of (unless you *really* like wargames).
 		- Another example, much more common than the first, is when the players are in a *transition between combat*. Think stealth through a bandit camp, where you're whispering across the table (or mic) as your characters tip-toe around sleeping enemies—but being seen immediately demands the initiation of the combat ruleset, thus inserting an uncanny *break* while everyone rolls initiative and the DM scrambles to do the same (on top of their regular duties).
 			- The call for initiative can often be tense, but it is nonetheless a break in the flow of the game. Whatever the preestablished momentum or *vibe*, it is reset in favor of the new 'game' that we then swap to.
@@ -53,6 +53,7 @@ Significant factors in composing engaging combat encounters that I've noticed in
 	- Alas, I feel these are some of the most effective skills a DM can have.
 # Alternative Rulesets
 ---
+Options that may be worth exploring at some point. 5th edition as written has fundamental conditions that I feel negatively impact engagement in combat-oriented gameplay.
 ## Visceral Roll System
 Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 - Initiative is no longer rolled. The DM dictates turn order based on player readiness and in-world circumstances.
@@ -70,6 +71,7 @@ Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 	- **Medium.** (AC 13-17) — The attacker no longer uses their stat modifier when calculating damage.
 	- **Heavy.** (AC 18-20) — The attacker's damage is resisted (halved), in addition to the previous effect.
 	- **Extreme.** (AC 22+) — The attacker must crit to do damage, in addition to the previous effect.
+	- Resistance does not stack. For example, if a target takes damage it is naturally resistant to, while having a **Heavy** armor class, the target will take half damage as usual.
 ### Projected Results
 - **Pro:**
 	- **One less step.** Subtracting an entire section from 5th edition combat while retaining a similar semblance of balance and flow; simplifying this vital game process and potentially allowing the other pillars of D&D to shine brighter during combat encounters.
@@ -86,6 +88,7 @@ Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 ---
 ## Core Components of Rewarding Combat
 - **Speed.** The speed in which decisions are made, turns are passed, and results are calculated—both as a game mechanic and faucet of the living world. The outcome of a battle should be predictable after the first round. After the second round (unless your players ended it in the first with some cool expenditure of resources), one party should be retreating, surrendering, dying, or having a revelation.
+	- Another way of looking at it is this: If on the first round 2 of 2 players make good attacks, they will probably win the battle. If 1 of 2 do so, it will be a coin toss. If nobody does, they will need to reconsider their situation.
 - **Stakes.** Combat encounters should never exist just because you need combat encounters. Units on the field exist as obstacles, the same as a risky bridge, and the players should have more reasons for navigating them than doing so for the hell of it. Make them rush into the unknown. Make them commit to the unplanned. If they *really* only just need to cross the bridge, foot over foot? The grass on the other side better be pretty damn green.
 - **Dilemma.** The stage is set and the mission is clear—but what's stopping the players from reaching their goal? You'd better hope it's not *yet another attack roll*. If it's come down to a series of monotone, uninspired mumbling and dice rolls on either side, you should have made them do it while it was raining fire and the floor was lava on every odd turn.
 - **Engagement.** To what degree can the players interact with their surroundings? The more the better. If they're forced to do so as a mechanism of the encounter? Perfect—just give them a warning round if they don't get it at first.
@@ -93,5 +96,5 @@ Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 ## From Here?
 - Without altering 5e's combat system:
 	- *Planned* combat encounters can always be deliberately crafted as thought-provoking puzzles with flexible and fulfilling solutions, **but:**
-	- There will probably *always* be a recurring 'break' in engagement or immersion that occurs due to matters relating to the combat system and my ability to choreograph varied actions on the fly (among other issues).
-	- Improvement comes from practice, so it follows that each successive combat raises the chances that we'll enjoy the next. In the worst case, we're all enjoying the game enough now to come back next week.
+	- There will probably *always* be a recurring 'break' in engagement or immersion that occurs due to matters relating to the bloated combat system and my ability to choreograph varied actions on the fly (among other issues).
+- Improvement comes from practice, so it follows that each successive combat raises the chances that we'll enjoy the next. In any case, we're all enjoying the game enough now to come back next week.
