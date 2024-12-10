@@ -17,4 +17,5 @@ To the north, the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiraga
 - **Westharbor.** A port town that precipitates the march into Sarnican territory. The hometown of [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Player Characters/Edgar, the Wandering Rat\|Edgar, the Wandering Rat]].
 # Map
 ---
+High resolution: https://photos.app.goo.gl/MfCxnKknyCa8nCr46
 ![Outer_Bailey.png](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Outer_Bailey.png)
