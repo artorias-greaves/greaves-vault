@@ -9,7 +9,7 @@
 **Weight:** 5
 # Properties
 ---
-**Runic.** You have a +1 bonus to attack and damage rolls made with this weapon.
+***Runic.*** You have a +1 bonus to attack and damage rolls made with this weapon.
 
 ***Bolide.*** You may forego a regular melee weapon attack to instead attack any target within 30 ft.
 

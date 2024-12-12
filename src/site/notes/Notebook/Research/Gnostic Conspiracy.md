@@ -24,9 +24,9 @@ This is an article discussing a conversation[^1] between Adam Green, Gnostic Inf
 	- It is broadly accepted that Judaism emerged *slowly* as a cult of ancient Canaanite religion, only establishing a 'proper', cultural Judaism by around 300 B.C., and contemporary Judaism by the 1st century A.D.
 		- Judaism was practiced *alongside* Canaanite paganism in the Torah and in ancient Israel's archaeological record. The Prophets were very aware of this when composing the Torah.
 - Though the evidence is ~~YIKES~~ somewhat shaky, the first reference to Israel could be from around 1200 B.C.[^4] This is around when the Bible claims these kingdoms (Israel and Judea) existed.
-	- More solid evidence, dating to c. 840 B.C. contains references to Israel, Yahweh, and events that occur in the Bible's Books of Kings.[^5]
+	- More solid evidence, dating to c. 840 B.C. contains *certain references* to Israel, Yahweh, and events that occur in the Bible's Books of Kings.[^5]
 	- Historians and archaeologists generally agree that Israel and Judah both existed as separate kingdoms by c. 900 B.C. and 850 B.C. respectively.
-- There is an ongoing debate as to whether or not Israel is *specifically* determined to be a Canaanite culture found that dates back to pre-tenth century B.C.
+- There is an ongoing debate as to whether or not Israel is *specifically* determined to be a Canaanite culture found that dates back to pre-12th century B.C.
 	- There is a distinct lack of pig bones found in 'Israelite' homes which may suggest pork was not consumed, in line with Biblical law, where pork is claimed to have made up about twenty percent of Levantine diet.
 - It seems conclusive that Judaism as we tend to imagine it emerged as a sort of national religion around 300 B.C. It existed prior, however, as a rising sect that originated as an ancient Canaanite paganism. Conclusively this date is c. 800 B.C., but historical analysis suggests it was much earlier.
 # Plato's Influence
@@ -67,7 +67,6 @@ It is much more likely that the Torah (and the morals within), coming from the M
 # On the Uniqueness of Christ
 ---
 - Undeniable similarities to many gods of the time and area (very Greek).
-- This debate has been settled since 1948.
 - The emergence of this school of thought around the time of Israel's creation as a modern nation state (post-Holocaust) is not an interesting fact to me (though I would like to question its authenticity—research needed). It makes sense to me that, when a theological people are granted a theological nation, theological ideas are therefore likely to follow. That these ideas swiftly reach 'mainstream' academia is hardly surprising: Who wouldn't want to be the next historian to prove or disprove Christ? 
 	- Shouldn't we be looking at their conclusions rather than questioning *why* it's being studied? Wouldn't more research into this be a good thing, because it would prove Christ's fictional nature sooner?
 	- My initial posit (however unfounded currently) is that the debate of a Unique Christ stretched on long before 1948 (aren't there Biblical accounts of Him being compared to Greek gods?). I can easily imagine the politics of the world stage influencing a sort of compounding onto the Christian mythos. 
@@ -77,8 +76,8 @@ It is much more likely that the Torah (and the morals within), coming from the M
 # Christian Mysteries
 ---
 - Early Christianity and its relation to paganism, specifically Jewish cults, Greek cults, Dionysian mysteries, etc.
-- Really does seem like Judaism was broadly grasping for the same religious revolution, perhaps testing what New Messiah might work best.
-- Drugs influencing Christianity, i.e. Sacred Mushroom? Or another pagan adoption? Is this part of the religion-crafting process?
+- Really does seem like Judaism was broadly grasping for the same religious revolution across sects, perhaps testing what New Messiah might work best.
+- Drugs influencing Christianity, i.e. Sacred Mushroom? Or another pagan adoption? Is this a necessary part of the religion-crafting process?
 # Conclusions
 ---
 Most of the history presented is either factually inaccurate, or it is already common knowledge among historians; the conclusions that these people thus allude to are sometimes suspect—at other times, however, they raise interesting questions, the answers to which may have frightening implications.
@@ -93,7 +92,7 @@ Most of the history presented is either factually inaccurate, or it is already c
 The idea that Judaism is a relatively young religion is not a secret, and the commentators fail to recognize the evidence that helps historians date the transition between polytheistic Canaan and monotheistic Israel (and recognize that the distinction was blurry for a long time).
 ## A 'Constructed' Religion?
 - Of course it is. All religions are 'constructed religions'.
-- Judaism is so interesting because we can see how a religion evolves in real time. We can track their gods and the measure to which they were worshipped with relative accuracy, and trace a gradual line that begins with war-hungry, polytheistic tribes and ends with the most influential religion in the world.
+- Judaism is so interesting because we can see how a religion evolves in real time. We can track their gods and the measure in which they were worshipped with relative accuracy, and trace a gradual line that begins with war-hungry, polytheistic tribes and ends with the most influential religion in the world.
 ## Further Questions
 ### Societal Implications
 - A section of conjecture and conspiracy, but probably the most important question to ask out of all of this: What are the societal implications of a widespread messianic cult?

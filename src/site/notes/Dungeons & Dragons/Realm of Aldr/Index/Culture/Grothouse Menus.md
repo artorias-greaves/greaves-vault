@@ -14,9 +14,6 @@ Food effects may stack with other food effects, but not themselves.
 
 - **Dragon Steak (75r).** A dried chunk of tough, sour drake meat. Induces a high body heat when eaten.
 	- Consuming one serving will give you resistance to fire damage until the next long rest.
-
-- **Eye of Ylvari (200r).** An unfortunately common ingredient in potions and salves meant to increase focus and connection to the Ehb. Sometimes served as delicacy.
-	- When you consume an Eye of Ylvari, your intelligence and wisdom scores increase to 20 for the next 5 minutes. After those 5 minutes pass, both scores are reduced to 5 until your next long rest.
 ## Drink
 Drink effects may stack with other drink effects *and* themselves.
 - **Blackbrew (25r).** A common drink in the Outer Bailey made from ground, roasted beans. So-called due to its dark brown or black color. Non-alcoholic.
@@ -28,6 +25,10 @@ Drink effects may stack with other drink effects *and* themselves.
 - **Godsmead (300r).** A vintage bottle of mead or wine dating back to the Golden Age. Incredibly rare, found only in Old Tiragard or amongst collectors.
 	- Drinking one glass of godsmead will grant you +5 to your next roll. This effect wears off after a long rest.
 	- One bottle contains five drinks.
+## Alchemies & Contraband
+- Generic [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Alchemies\|Alchemies]].
+- **Eye of Ylvari (200r).** An unfortunately common ingredient in potions and salves meant to increase focus and connection to the Ehb. Sometimes served as delicacy.
+	- When you consume an Eye of Ylvari, your intelligence and wisdom scores increase to 20 for the next 5 minutes. After those 5 minutes pass, both scores are reduced to 5 until your next long rest.
 - **Ulv's Blood (300r).** This is a foul-smelling potion that is thick like oil.
 	- When you consume a vial of Ulv's Blood, you gain 20 temporary hit points that last until your next long rest. Upon completing the long rest, make a constitution saving throw.
 		- On failure, you become addicted and lose 2d6 from your maximum hit points. These hit points can only be restored while under the effects of Ulv's Blood, or when your addiction is cured.
