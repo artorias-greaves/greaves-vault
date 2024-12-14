@@ -15,7 +15,7 @@ Food effects may stack with other food effects, but not themselves.
 - **Dragon Steak (75r).** A dried chunk of tough, sour drake meat. Induces a high body heat when eaten.
 	- Consuming one serving will give you resistance to fire damage until the next long rest.
 ## Drink
-Drink effects may stack with other drink effects *and* themselves.
+Drink effects may stack with other drink effects *and* themselves, often with unforeseen dangers.
 - **Blackbrew (25r).** A common drink in the Outer Bailey made from ground, roasted beans. So-called due to its dark brown or black color. Non-alcoholic.
 	- Drinking one cup of blackbrew will provide +1 to all perception checks for the next hour.
 - **Sarnican Export (50r).** A clear or amber alcoholic drink made from a distillery. 
