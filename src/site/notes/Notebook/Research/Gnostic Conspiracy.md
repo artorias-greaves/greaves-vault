@@ -67,12 +67,13 @@ It is much more likely that the Torah (and the morals within), coming from the M
 # On the Uniqueness of Christ
 ---
 - Undeniable similarities to many gods of the time and area (very Greek).
-- The emergence of this school of thought around the time of Israel's creation as a modern nation state (post-Holocaust) is not an interesting fact to me (though I would like to question its authenticity—research needed). It makes sense to me that, when a theological people are granted a theological nation, theological ideas are therefore likely to follow. That these ideas swiftly reach 'mainstream' academia is hardly surprising: Who wouldn't want to be the next historian to prove or disprove Christ? 
-	- Shouldn't we be looking at their conclusions rather than questioning *why* it's being studied? Wouldn't more research into this be a good thing, because it would prove Christ's fictional nature sooner?
-	- My initial posit (however unfounded currently) is that the debate of a Unique Christ stretched on long before 1948 (aren't there Biblical accounts of Him being compared to Greek gods?). I can easily imagine the politics of the world stage influencing a sort of compounding onto the Christian mythos. 
-		- Wouldn't it be just as likely (perhaps more so) that the devastating application of Christianity by the Nazis instead encouraged scholars to pull Christ away in increasing effort from these pagan gods and concepts that the Nazis employed?
-			- The commentator states that this idea did not emerge in Israel in 1948, but rather in the other contemporary universities like Harvard. Doesn't this subtract from the hypothesis that this may be a Jewish conspiracy?
-		- **Does everything need to be a conspiracy nowadays?**
+- The emergence of this school of thought around the time of Israel's creation as a modern nation state (post-Holocaust) is not an interesting fact to me (though I would like to question its authenticity). It makes sense to me that, when a theological people are granted a theological nation, theological ideas are therefore likely to follow. That these ideas swiftly reach 'mainstream' academia is hardly surprising: Who wouldn't want to be the next historian to prove or disprove Christ? 
+- What about the VAST archaeological expeditions done in the middle east in the 1800s? The finding of Babylon and Sumer? A HUGE effort was already being made to research these areas, almost always with the goal of proving the Bible. This entire claim is highly suspect.
+- Shouldn't we be looking at their conclusions rather than questioning *why* it's being studied? Wouldn't more research into this be a good thing, because it would prove Christ's fictional nature sooner?
+- The debate of a Unique Christ stretched on long before 1948 (aren't there Biblical accounts of Him being compared to Greek gods?). I can easily imagine the politics of the world stage influencing a sort of compounding onto the Christian mythos. 
+	- Wouldn't it be just as likely (perhaps more so) that the devastating application of Christianity by the Nazis instead encouraged scholars to pull Christ away in increasing effort from these pagan gods and concepts that the Nazis employed?
+		- The commentator states that this idea did not emerge in Israel in 1948, but rather in the other contemporary universities like Harvard. Doesn't this subtract from the hypothesis that this may be a Jewish conspiracy?
+- **Does everything need to be a conspiracy nowadays?**
 # Christian Mysteries
 ---
 - Early Christianity and its relation to paganism, specifically Jewish cults, Greek cults, Dionysian mysteries, etc.
@@ -93,9 +94,10 @@ The idea that Judaism is a relatively young religion is not a secret, and the co
 ## A 'Constructed' Religion?
 - Of course it is. All religions are 'constructed religions'.
 - Judaism is so interesting because we can see how a religion evolves in real time. We can track their gods and the measure in which they were worshipped with relative accuracy, and trace a gradual line that begins with war-hungry, polytheistic tribes and ends with the most influential religion in the world.
+- This section of the conversation seems to revolve around *why* it is the most influential religion in the world; I don't believe the answer can be found solely in the conclusions the commentators make.
 ## Further Questions
 ### Societal Implications
-- A section of conjecture and conspiracy, but probably the most important question to ask out of all of this: What are the societal implications of a widespread messianic cult?
+- A section of conjecture and conspiracy, but probably the most important question to ask out of all of this: What are the societal implications of a widespread apocalyptic cult?
 	- We have examples of societies that emerged under different founding narratives. How do they differ? Can we make a moral judgement as to which is the lesser evil, or the greater good?
 	- To what extent can this influence truly be felt over the course of two-thousand years? At what point may we determine that today's Judeo-Christian religions are separate entities from their aged counterparts (even Catholicism has been so horrifically gutted that it would be unrecognizable from 15th century church)?
 # References

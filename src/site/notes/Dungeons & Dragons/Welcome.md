@@ -14,10 +14,19 @@ Alas, the site where this is published is very limited. You may find the formatt
 
 # Campaign of the Warded Walls
 ---
-*...*
+*Long ago, before man waged war against the gods, the Outer Bailey was a vast and fertile land. It was the breadbasket of the First Empire; a province rich with timber, ore, and life. Now, it is a desperate wasteland, clinging onto its civilized origins with all but faded strength.*
+
+*Those who survived the First Night gathered in bands and forever shunned those outside their own torch light. Towns were abandoned—anywhere without a wall to hide behind or a fortress to retreat to. Cities turned dense and overcrowded, often as dangerous as the world outside their gates.*
+
+*The Outer Bailey sits in the shadow of the Warded Walls. Monsters prowl the land as much as robbers. Those who travel its roads must do so in groups—there are no survivors amongst the few. It is the land that brought you into Guild, and it is the land that must bring you out, for your new, lethal condition cannot be cured here.*
 
 ## Party Status
-Sheltered; downtime.
+Campaigning; wilderness.
+Supply: 2
+### Grot
+- **2d4+2** healing (2 charges)
+- **Jarro:** N/A
+- **Edgar:** N/A
 
 ## Related Links
 - [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Grot\|Grot]]
