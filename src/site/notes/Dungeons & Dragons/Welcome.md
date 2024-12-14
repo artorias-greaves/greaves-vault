@@ -29,6 +29,7 @@ Supply: 2
 - **Edgar:** N/A
 
 ## Related Links
+- [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Food & Drink\|Food & Drink]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Culture/Grot\|Grot]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Monsters/Nightgaunt\|Nightgaunt]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Outer Bailey\|Outer Bailey]]
