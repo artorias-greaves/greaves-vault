@@ -37,6 +37,6 @@ Special ingredients may be found and added to your Living Grot to grant it uniqu
 |  Ancient Ember   |  Become immune to fire until your next turn.   |  Druids, [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Pyre of the First Forest\|Pyre of the First Forest]]   |
 |  Magebark   |  Until your next turn, gain +10 to your armor class and reduce your movement speed to 5ft.   |  Magical forests   |
 |  Ehbworm   |  Restore a 1st-level spell slot.   |  Wizards; sorcerers; the Ehb   |
-|  Octane   |  Explode in a fiery torrent. Each creature in a 10-foot radius must make a Dexterity saving throw. A target takes 4d6 fire damage on a failed save, or half as much damage on a successful one. Flammable objects hit by this spell do not ignite.  |  *Unknown*   |
+|  Octane   |  Explode in a fiery torrent. Each creature in a 10-foot radius makes a dexterity saving throw with a DC of 15. A target takes 4d6 fire damage on a failed save, or half as much damage on a successful one. The user of Octane automatically fails this save. Flammable objects hit by this spell do not ignite.  |  [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|Sarnica]]   |
 |  Ragemead   |  Enter a **Rage**.   |  Chemists   |
 |  Swift   |  Gain an extra action for this turn.   |  *Unknown*   |
