@@ -73,6 +73,7 @@ Hancock has a habit of presenting a scenario in which the conclusion becomes 'th
 ## Academia's 'Chilling Effect'
 - Mostly agree with Graham here, but not nearly to the extent he claims.
 - Why not stand on this platform alone?
+- Does this mean we need to obliterate ourselves of the importance of the historical method?
 ## Further Questions
 - Why do western scientists in particular seem to act in this dismissive and often abusive manner towards *genuine evidence* to the contrary of their established ideas?
 - What is the evidence and scientific consensus on the Younger Dryas Impact Hypothesis?
