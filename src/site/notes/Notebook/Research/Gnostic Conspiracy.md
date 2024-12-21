@@ -93,6 +93,9 @@ Most of the history presented is either factually inaccurate, or it is already c
 The idea that Judaism is a relatively young religion is not a secret, and the commentators fail to recognize the evidence that helps historians date the transition between polytheistic Canaan and monotheistic Israel (and recognize that the distinction was blurry for a long time).
 ## A 'Constructed' Religion?
 - Of course it is. All religions are 'constructed religions'.
+	- The distinction of *religion* as a concept is relatively modern; cultures of the time aren't thought to have this concept. Rather, what we refer to as religion was *reality* to these people, ingrained in daily living, political structures, and observations about the world.
+	- Ancient religions were synonymous with politics. Show me one religion, contemporary to *any* proposed founding date of Judaism, and I will show you a political tool meant to influence the masses.
+		- I'm pretty sure Plato et al. made this observation.
 - Judaism is so interesting because we can see how a religion evolves in real time. We can track their gods and the measure in which they were worshipped with relative accuracy, and trace a gradual line that begins with war-hungry, polytheistic tribes and ends with the most influential religion in the world.
 - This section of the conversation seems to revolve around *why* it is the most influential religion in the world; I don't believe the answer can be found solely in the conclusions the commentators make.
 ## Further Questions
