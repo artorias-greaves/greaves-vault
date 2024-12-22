@@ -87,14 +87,14 @@ Most of the history presented is either factually inaccurate, or it is already c
 	- The historical and scientific processes seem to be our best tools to measure an objective reality. Of course there are problems that needs be addressed, but to abandon these systems which have been in development for thousands of years is *probably not a good idea* when trying to discern fact from fiction.
 ## Historicity of the Bible
 - Entire conversation holds the underlying premise that *some* measure of the Torah and Bible(s) is historical truth; making literal interpretations.
-	- Literal interpretations of the Bible are generally thrown out, it's an aged school of thought. For example, it is fact that the Gospel stories fail to align with known historical events, like the reign of Herod and the Jerusalem earthquake(s). 
+	- Literal interpretations of the Bible are thrown out without archaeological evidence to support them (at least amongst the scientific community). For example, it is fact that the Gospel stories fail to align with known historical events, like the reign of Herod and the Jerusalem earthquake(s). This has been the general consensus for a long time.
 	- It's important to note that, while the Bible is widely accepted to be literary and allegorical in foundation, we can draw *some* historical conclusions from it. This happens when Biblical events occur in concordance with archaeological evidence. A great deal of care is taken to avoid the bias of the writer when forming historical conclusions in this regard.
 ## A Young Religion?
 The idea that Judaism is a relatively young religion is not a secret, and the commentators fail to recognize the evidence that helps historians date the transition between polytheistic Canaan and monotheistic Israel (and recognize that the distinction was blurry for a long time).
 ## A 'Constructed' Religion?
 - Of course it is. All religions are 'constructed religions'.
 	- The distinction of *religion* as a concept is relatively modern; cultures of the time aren't thought to have this concept. Rather, what we refer to as religion was *reality* to these people, ingrained in daily living, political structures, and observations about the world.
-	- Ancient religions were synonymous with politics. Show me one religion, contemporary to *any* proposed founding date of Judaism, and I will show you a political tool meant to influence the masses.
+	- Ancient religions were synonymous with politics. Show me one religion, contemporary to *any* proposed founding date of Judaism, and I will show you a political tool meant to influence the masses and enforce cultural hegemony.
 		- I'm pretty sure Plato et al. made this observation.
 - Judaism is so interesting because we can see how a religion evolves in real time. We can track their gods and the measure in which they were worshipped with relative accuracy, and trace a gradual line that begins with war-hungry, polytheistic tribes and ends with the most influential religion in the world.
 - This section of the conversation seems to revolve around *why* it is the most influential religion in the world; I don't believe the answer can be found solely in the conclusions the commentators make.
