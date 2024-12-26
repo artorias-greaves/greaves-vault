@@ -83,7 +83,8 @@ It is much more likely that the Torah (and the morals within), coming from the M
 # Christian Mysteries
 ---
 - Early Christianity and its relation to paganism, specifically Jewish cults, Greek cults, Dionysian mysteries, etc.
-- Really does seem like Judaism was broadly grasping for the same religious revolution across sects, perhaps testing what New Messiah might work best.
+- Really does seem like Judaism was broadly grasping for the same religious revolution at the same time and across sects, perhaps testing what New Messiah might work best.
+	- This is probably the most interesting piece of the conversation to me; witnessing the evolution of religion as it was recorded by people of the time. It's a shame the commentators have consigned this section of Judeo-Christian history to machinations of a baseless grand conspiracy.
 - Drugs influencing Christianity, i.e. Sacred Mushroom? Or another pagan adoption? Is this a necessary part of the religion-crafting process?
 # Conclusions
 ---
