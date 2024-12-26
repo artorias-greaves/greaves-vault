@@ -29,6 +29,10 @@ This is an article discussing a conversation[^1] between Adam Green, Gnostic Inf
 - There is an ongoing debate as to whether or not Israel is *specifically* determined to be a Canaanite culture found that dates back to pre-12th century B.C.
 	- There is a distinct lack of pig bones found in 'Israelite' homes which may suggest pork was not consumed, in line with Biblical law, where pork is claimed to have made up about twenty percent of Levantine diet.
 - It seems conclusive that Judaism as we tend to imagine it emerged as a sort of national religion around 300 B.C. It existed prior, however, as a rising sect that originated as an ancient Canaanite paganism. Conclusively this date is c. 800 B.C., but historical analysis suggests it was much earlier.
+- If the gap between the Torah and Christianity was only about ~200 years (conservative estimate given the commentators' assertions), isn't the potential for corrections high? 
+	- A vast disservice is made to ancient peoples in regards to their intelligence, especially when it comes to traditions and record keeping (and *especially so* with Jews, apparently). Wouldn't an ancient Jew have put up his hand during the sermon on the mount to ask why Jesus is referring to King David like a long-lost ancestor, and not a recent contemporary?
+		- For reference, this is about the time difference between the viking Rollo and William the Conqueror. In early medieval Europe, where record keeping was *scant* and pedigrees were notoriously difficult to trace, the genealogy of a pagan warrior was apparent and palpable.
+- There is no evidence of this claim, and there's a vast quantity of facts that suggest the opposite.
 # Plato's Influence
 ---
 Throughout the conversation, the commentators make the claim that the Old and New Testaments were likely influenced by Platonic teachings. This is because there are a vast number of similarities between Plato's ideas and Biblical law, as well as Plato being a contemporary figure during the alleged composing of the Torah.
@@ -51,24 +55,26 @@ Monogamy has been the cultural norm in most Middle Eastern cultures since the ti
 The claim that the Abrahamic religions may have adopted monogamy through observations or integrations with northern European pagans is unlikely at best.
 
 It is much more likely that the Torah (and the morals within), coming from the Middle East, was influenced by *local*, contemporary philosophies, rather than those in Greece. Evidence in DNA and language suggest the bulk of evolution in Jewish culture and religion took place in the Levant, Mesopotamia, and the land between.
-# Yahweh-Iconoclasm Hypothesis
+# On Zionism (Yahweh-Iconoclasm Hypothesis)
 ---
 - The idea that Yahweh/the Jewish prime god of the time was 'constructed as a tool to enforce Zionism'; Monotheism and the iconoclasm that came with later Yahweh was a Jewish tool to promote their dogma. The celestial domination of Yahweh in particular.
 	- **This is how most ancient societies acted.** Politics and religion were indistinguishable from each other; Iconoclasm is and was a common tactic taken by the zealous and politically motivated. Many cultures have attempted to wipe out entire histories of others in favor of their own supremacy. This is hardly a uniquely Jewish behavior.
-		- Celestial or universal domination of a single god was a very common way of thought in ancient religion.
+		- Celestial or universal domination by a single god was a very common way of thought in ancient Mesopotamian religion.
 	- The world was already (very swiftly) moving towards monotheism as once-broad pantheons are trimmed down and the focus hones in on a singular god—typically the sun or sky-father, so-called gods of war (deities cannot be categorized so primitively; ancient gods are personalities, not overseers of strict domains), and other paternal 'overgods'. 
-		- This is evident in the ancient Egyptian cult of Aten, Enlil or Marduk in ancient Sumer, Zeus in Greece and Roma's Jupiter, among many others (Akkadian Shamah, Norse Tir (Saxon Tiwaz), Zoroastrianism in ancient Persia...).
+		- This is evident in the ancient Egyptian cult of Aten, Enlil or Marduk in ancient Sumer, Zeus in Greece and Roma's Jupiter, among many others (Akkadian Shamah, Norse Tir (Saxon Tiwaz), Zoroastrianism's 'gnostic' themes in ancient Persia...).
 		- I have heard the claim that monotheism was a necessity, or the necessary evolution of religion at the time. This is something I'd like to explore.
+			- Perhaps something to do with the shift to *demos*, or *populi*?
 
 > [!NOTE] Note
-> It is worth mentioning that some sources describe these Canaan pagans as *ruthlessly* destructive—perhaps even more so than their contemporary neighbors. This aligns with the early 'cult of personality' around Yahweh and the gods associated with him—by many accounts this was an incredibly vain and belligerent deity. 
+> It is worth mentioning that some sources describe these Canaan pagans as *ruthlessly* destructive—perhaps even more so than their contemporary neighbors. This aligns with the early 'cult of personality' around Yahweh and the gods associated with him—by many accounts this was an incredibly vain and belligerent deity, and thus people.
 > 
-> There is an argument to be made that the general Israeli population did not endorse this; belligerent kings were routinely removed from power.
+> There is an argument to be made that the general Israeli population did not endorse this; belligerent kings were routinely removed from power, while so-called *just* kings tended to have long and successful reigns.
 # On the Uniqueness of Christ
 ---
-- Undeniable similarities to many gods of the time and area (very Greek).
-- The emergence of this school of thought around the time of Israel's creation as a modern nation state (post-Holocaust) is not an interesting fact to me (though I would like to question its authenticity). It makes sense to me that, when a theological people are granted a theological nation, theological ideas are therefore likely to follow. That these ideas swiftly reach 'mainstream' academia is hardly surprising: Who wouldn't want to be the next historian to prove or disprove Christ? 
-- What about the VAST archaeological expeditions done in the middle east in the 1800s? The finding of Babylon and Sumer? A HUGE effort was already being made to research these areas, almost always with the goal of proving the Bible. This entire claim is highly suspect.
+- Undeniable similarities to many gods of the time and area (particularly the mysteries of Egypt and Greece).
+- The emergence of this school of thought around the time of Israel's creation as a modern nation state (post-Holocaust) is not an interesting fact to me (though I would like to question its authenticity). It makes sense to me that, when a theological people are granted a theological nation, theological ideas are therefore likely to follow. 
+	- That these ideas swiftly reach 'mainstream' academia is hardly surprising: Who wouldn't want to be the next historian to prove or disprove Christ? 
+- What about the VAST archaeological expeditions done in the middle east in the 1800s? The finding of Babylon and Sumer? A HUGE effort was already being made to research these areas, almost always with the goal of proving the Bible. ==**This entire claim is highly suspect.**==
 - Shouldn't we be looking at their conclusions rather than questioning *why* it's being studied? Wouldn't more research into this be a good thing, because it would prove Christ's fictional nature sooner?
 - The debate of a Unique Christ stretched on long before 1948 (aren't there Biblical accounts of Him being compared to Greek gods?). I can easily imagine the politics of the world stage influencing a sort of compounding onto the Christian mythos. 
 	- Wouldn't it be just as likely (perhaps more so) that the devastating application of Christianity by the Nazis instead encouraged scholars to pull Christ away in increasing effort from these pagan gods and concepts that the Nazis employed?
@@ -81,7 +87,7 @@ It is much more likely that the Torah (and the morals within), coming from the M
 - Drugs influencing Christianity, i.e. Sacred Mushroom? Or another pagan adoption? Is this a necessary part of the religion-crafting process?
 # Conclusions
 ---
-Most of the history presented is either factually inaccurate, or it is already common knowledge among historians; the conclusions that these people thus allude to are sometimes suspect—at other times, however, they raise interesting questions, the answers to which may have frightening implications.
+Most of the history presented is either factually inaccurate, or it is already common knowledge among historians; the conclusions that these people thus allude to are sometimes suspect—at other times, however, they raise interesting points that could be considered worthwhile to explore (for reasons unrelated to this Grand Jewish Conspiracy) if they weren't so plainly rooted in ignorance of facts at best—and a deliberate reconstructing of history at worst.
 ## Jewish Bias
 - We cannot reckon with a factual reality if the default argument to everything is that 'the Jews control it, so of course it's written in their favor.' At some point we need to put our faith into *some* preestablished structure of reasoning; the free market of ideas is not a rising tide that raises all ships, but rather a flood that confounds and frustrates attempts to see the ocean through it.
 	- The historical and scientific processes seem to be our best tools to measure an objective reality. Of course there are problems that needs be addressed, but to abandon these systems which have been in development for thousands of years is *probably not a good idea* when trying to discern fact from fiction.
@@ -92,12 +98,18 @@ Most of the history presented is either factually inaccurate, or it is already c
 ## A Young Religion?
 The idea that Judaism is a relatively young religion is not a secret, and the commentators fail to recognize the evidence that helps historians date the transition between polytheistic Canaan and monotheistic Israel (and recognize that the distinction was blurry for a long time).
 ## A 'Constructed' Religion?
-- Of course it is. All religions are 'constructed religions'.
-	- The distinction of *religion* as a concept is relatively modern; cultures of the time aren't thought to have this concept. Rather, what we refer to as religion was *reality* to these people, ingrained in daily living, political structures, and observations about the world.
+- The idea that Judaism was essentially constructed by a small group of 'comic book writers' who convened to best describe how to dominate the spiritual sphere of reality over the next two-thousand years.
+	- *Behold: An actual conclusion made by one of the commentators (GnosticInformant, to the autistic reframing by Uberboyo). No matter how kindly I re-state this claim, it still sounds ~~fucking retarded~~ just a bit 'out there'.*
+- All religions are 'constructed religions'.
+	- The distinction of *religion* as a concept is relatively modern; cultures of the time aren't thought to have this concept. Rather, what we refer to as religion was *reality* to these people, ingrained in daily living, political structures, and observations about the world. You cannot separate a semitic person from semitic gods, a Norseman from Norse gods, etc.
 	- Ancient religions were synonymous with politics. Show me one religion, contemporary to *any* proposed founding date of Judaism, and I will show you a political tool meant to influence the masses and enforce cultural hegemony.
 		- I'm pretty sure Plato et al. made this observation.
 - Judaism is so interesting because we can see how a religion evolves in real time. We can track their gods and the measure in which they were worshipped with relative accuracy, and trace a gradual line that begins with war-hungry, polytheistic tribes and ends with the most influential religion in the world.
-- This section of the conversation seems to revolve around *why* it is the most influential religion in the world; I don't believe the answer can be found solely in the conclusions the commentators make.
+- ==On the Crusades as a faucet of a religion that has Zionism as its primary tenant.==
+	- **Where is the bridge between Jewish Zionism and Pax Christi?**
+	- How can the main goal of Christianity somehow be a path to spiritual enlightenment *and* a tool to revert the masses to 'be like sheep' at the same time?
+	- At what point can we consider Judaism and Christianity as separate entities?
+- This section of the conversation seems to revolve around *why* it is the most influential religion in the world. The answer lies far beyond the scope of what's discussed here.
 ## Further Questions
 ### Societal Implications
 - A section of conjecture and conspiracy, but probably the most important question to ask out of all of this: What are the societal implications of a widespread apocalyptic cult?
