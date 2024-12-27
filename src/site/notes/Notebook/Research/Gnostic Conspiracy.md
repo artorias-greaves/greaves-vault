@@ -84,7 +84,7 @@ It is much more likely that the Torah (and the morals within), coming from the M
 ---
 - Early Christianity and its relation to paganism, specifically Jewish cults, Greek cults, Dionysian mysteries, etc.
 - Really does seem like Judaism was broadly grasping for the same religious revolution at the same time and across sects, perhaps testing what New Messiah might work best.
-	- This is probably the most interesting piece of the conversation to me; witnessing the evolution of religion as it was recorded by people of the time. It's a shame the commentators have consigned this section of Judeo-Christian history to machinations of a baseless grand conspiracy.
+	- This is probably the most interesting piece of the conversation to me; witnessing the evolution of religion as it was recorded by people of the time. It's a shame the commentators have consigned this section of Judeo-Christian history to the machinations of a grand conspiracy.
 - Drugs influencing Christianity, i.e. Sacred Mushroom? Or another pagan adoption? Is this a necessary part of the religion-crafting process?
 # Conclusions
 ---
@@ -111,6 +111,10 @@ The idea that Judaism is a relatively young religion is not a secret, and the co
 	- How can the main goal of Christianity somehow be a path to spiritual enlightenment *and* a tool to revert the masses to 'be like sheep' at the same time?
 	- At what point can we consider Judaism and Christianity as separate entities?
 - This section of the conversation seems to revolve around *why* it is the most influential religion in the world. The answer lies far beyond the scope of what's discussed here.
+## An Unprovable Hypothesis
+- If the Jews control the media, how would evidence to the contrary get out into the media?
+- We can't know what a non-Christian western world would look like, so we can't know if it would be better or worse.
+- For the commentators, the evidence is in the lack of evidence; *God in the gaps*.
 ## Further Questions
 ### Societal Implications
 - A section of conjecture and conspiracy, but probably the most important question to ask out of all of this: What are the societal implications of a widespread apocalyptic cult?

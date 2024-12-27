@@ -74,7 +74,7 @@ Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 	- **Light.** (AC 8-12) — The attacker's damage applies as normal.
 	- **Medium.** (AC 13-17) — The attacker no longer uses their stat modifier when calculating damage.
 	- **Heavy.** (AC 18-20) — The attacker's damage is resisted (halved), in addition to the previous effect.
-	- **Reinforced.** (AC 22+) — The attacker must crit to do damage, in addition to the previous effect.
+	- **Reinforced.** (AC 21+) — The attacker must crit to do damage, in addition to the previous effect.
 	- Resistance does not stack. For example, if a target takes damage it is naturally resistant to, while having a *heavy* armor class, the target will take half damage as usual.
 ### Projected Results
 - **Pro:**
@@ -106,3 +106,5 @@ Simplified from: https://www.youtube.com/watch?v=iG7fz56PHJE
 	- *Planned* combat encounters can always be deliberately crafted as thought-provoking puzzles with flexible and fulfilling solutions, **but:**
 	- There will probably *always* be a recurring 'break' in engagement or immersion that occurs due to matters relating to the bloated combat system and my ability to choreograph varied actions and behaviors on the fly (among other issues).
 - Improvement comes from practice, so it follows that each successive combat raises the chances that we'll enjoy the next. In any case, we're all enjoying the game enough now to come back next week.
+## Alternative Conclusion
+- What if I'm fundamentally misunderstanding D&D combat?

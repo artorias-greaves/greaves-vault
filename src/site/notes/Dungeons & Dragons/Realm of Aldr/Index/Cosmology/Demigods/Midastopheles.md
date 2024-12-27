@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/dungeons-and-dragons/realm-of-aldr/index/cosmology/demigods/midastopheles/"}
 ---
 
-Midastopheles is a demigod often associated with drunkenness, celebrations, fermentation, and gambling. He appears as simple [[Dungeons & Dragons/Realm of Aldr/Index/Species/Tiragardian\|Tiragardian]] man; a generous deal-maker who is willing to grant people great boons for seemingly insignificant sacrifices—but be sure to read the fine print.
+**Midastopheles** is a demigod often associated with drunkenness, celebrations, fermentation, and gambling. He appears as simple [[Dungeons & Dragons/Realm of Aldr/Index/Species/Tiragardian\|Tiragardian]] man; a generous deal-maker who is willing to grant people great boons for seemingly insignificant sacrifices—but be sure to read the fine print.
 
-Midastopheles is a name celebrated by ancient cults, but most people confronted with the god do not realize who he is. He is referred to simply as someone who appeared when something was needed most. He is a god of mysterious ambitions and origins.
+Midastopheles is a name celebrated by ancient cults, but most people confronted with the god do not realize who he is. He is referred to simply as someone who appeared when something was needed most. He is a god of mysterious ambitions, abilities, and origins.
 
 **Title(s)**
 - Man of Mirrors
-- Crossroads God
+- Crossroads Devil
 
 **Adjective(s)**
 - Midastophic
