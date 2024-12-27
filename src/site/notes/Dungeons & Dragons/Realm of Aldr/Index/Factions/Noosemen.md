@@ -21,7 +21,7 @@ Must be endorsed by existing clanmate to join.
 
 **Notable Members**
 - [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Sapra\|Sapra]]. The current leader of the Noosemen. Brutal and efficient, she is feared and respected by most of the city—even if they don’t know who she is.
-- [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Arek the Axe\|Arek the Axe]]. A Nooseman who is sympathetic to the city and feels the clan has lost its way. He seeks to have Sapra killed to take her place.
+- [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Archive/Arek the Axe\|Arek the Axe]]. A Nooseman who is sympathetic to the city and feels the clan has lost its way. He seeks to have Sapra killed to take her place.
 # Organization
 ---
 The Noosemen consists solely of male and female [[Dungeons & Dragons/Realm of Aldr/Index/Species/Tiragardian\|Tiragardians]]. Each Nooseman wears a tattered hood and noose around their neck, which is used both as identification and rhetoric.

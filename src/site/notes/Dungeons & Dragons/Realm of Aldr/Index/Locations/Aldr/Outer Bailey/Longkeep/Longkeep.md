@@ -4,7 +4,7 @@
 
 **Longkeep** is a minor settlement in the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Outer Bailey\|Outer Bailey]]. 
 
-It has a population of 29 that is loosely heralded by [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Gormander\|Gormander]].
+It has a population of 29 that is loosely heralded by [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Archive/Gormander\|Gormander]].
 # Description
 ---
 Like most things in the Outer Bailey, Longkeep is a derelict ruin, collecting rust, dust, and blood in the shadow of its former glory. It is a settlement out of necessity; indeed, while the number of habitable shelters may be counted on one hand, Longkeep's strategic location makes it a vital settlement for resupply on the journey out of the southern province.

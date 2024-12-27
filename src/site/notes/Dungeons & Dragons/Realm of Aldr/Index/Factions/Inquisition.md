@@ -19,7 +19,7 @@ Must enter a divine covenant to join.
 
 **Notable Members**
 - [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Lumen, the Last Light\|Lumen, the Last Light]]
-- [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Elira Vael\|Elira Vael]]
+- [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Archive/Elira Vael\|Elira Vael]]
 - [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Bolgi\|Bolgi]]
 # Organization
 ---

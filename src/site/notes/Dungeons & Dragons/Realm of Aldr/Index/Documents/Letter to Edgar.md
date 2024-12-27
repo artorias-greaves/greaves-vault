@@ -16,4 +16,4 @@ G
 A
 B
 
-— [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Arek the Axe\|Arek the Axe]]
+— [[Dungeons & Dragons/Realm of Aldr/Index/Characters/Archive/Arek the Axe\|Arek the Axe]]
