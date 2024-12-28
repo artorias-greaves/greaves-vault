@@ -22,7 +22,7 @@ Alas, the site where this is published is very limited. You may find the formatt
 
 ## Party Status
 Campaigning; wilderness.
-Supply: 2
+Supply: 5
 ### Grot
 - **2d4+2** healing (2 charges)
 - **Jarro:** N/A
