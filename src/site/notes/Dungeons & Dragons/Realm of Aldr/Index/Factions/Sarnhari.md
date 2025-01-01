@@ -10,7 +10,7 @@ The **Sarnhari**, or **Whores of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmol
 
 **Location(s)**
 - [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Guild/Guild\|Guild]]
-- [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|Sarnica]]
+- [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica/Sarnica\|Sarnica]]
 
 **Notable Members**
 # Organization

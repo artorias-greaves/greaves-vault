@@ -32,7 +32,7 @@ The Akridans initially existed as the priest caste of old Tiragard—servants, c
 ## Baelic
 The Baelic people make up the Tiragardian population of the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Outer Bailey/Outer Bailey\|Outer Bailey]], from where they get their name. There are no true defining characteristics of Baelics—in fact, most would not use this term, as they have little cultural identity beyond the city or town they inhabit. Most Baelics are likely descendants from farmers, merchants, warriors, and minor nobility from the old empire. Their skin ranges from pale to tan, olive to black. They are a hardy people; born-survivors in a world that seems destined to oppose them.
 
-**Male Names:** Arek, Carmik, Gormander.
+**Male Names:** Arek, Falk, Sourdough.
 **Female Names:** Lumen, Nacha, Ylva.
 **Asexual Names:** Umber, Glofin, Zari.
 ## Craven
@@ -47,7 +47,7 @@ Despite their harrowing appearance, tyrannical rulers, and cursed realm of fog, 
 **Asexual Names:** 
 ## Pyric
 ## Sarnican
-A secluded and mysterious people who originated as a heretical cabal within Tiragardian society. Due to their widespread participation in [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Magic#Fetish\|Fetish]] magic, they are pale, gaunt, and frequently haunted, and view the other races and ethnicities with derision. After the God Wars, they followed Sarn's will and founded a new [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|empire]] beyond the Warded Walls. While goodwill and heroism may exist amongst Sarnicans, most are far too oppressed or brainwashed to do anything with it.
+A secluded and mysterious people who originated as a heretical cabal within Tiragardian society. Due to their widespread participation in [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Magic#Fetish\|Fetish]] magic, they are pale, gaunt, and frequently haunted, and view the other races and ethnicities with derision. After the God Wars, they followed Sarn's will and founded a new [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica/Sarnica\|empire]] beyond the Warded Walls. While goodwill and heroism may exist amongst Sarnicans, most are far too oppressed or brainwashed to do anything with it.
 
 **Male Names:** August, Callus, Invictus, Vaté, Valor.
 **Female Names:** Amalié, Cuirum, Pharodra, Vintna.

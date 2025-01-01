@@ -7,4 +7,4 @@
 - [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Academy of Sorcerest\|Academy of Sorcerest]]
 - [[Eir's Demesne\|Eir's Demesne]]
 - [[Inner Bailey\|Inner Bailey]]
-- [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Warded Walls\|Warded Walls]]
+- [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Warded Walls\|Warded Walls]]

@@ -12,6 +12,7 @@
 	- Habits and techniques for writing prose.
 - **Story** by Robert McKee
 	- Fundamentals of storytelling and writing scripts.
+	- [[Notebook/Story by Robert McKee\|Notes]]
 ## Golden Age of Piracy
 - **A General History of the Pyrates** by Charles Johnson
 	- https://www.gutenberg.org/files/40580/40580-h/40580-h.htm
@@ -22,7 +23,7 @@
 	- Good starting point?
 
 - **The Pirate World** by Angus Konstam
-	- "An "illustrated guide to the world of pirates during the golden age, including their ships, weapons, and tactics".
+	- An "illustrated guide to the world of pirates during the golden age, including their ships, weapons, and tactics".
 ## Medieval Europe
 - **The Knight in History** by Frances Gies
 	- Overview of the knight caste which appears in the medieval era.

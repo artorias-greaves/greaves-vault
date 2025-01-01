@@ -32,7 +32,7 @@ Tir's realm is [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Coliseum/Colis
 - [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Sarn\|Sarn]]
 # Worship
 ---
-As expected, Tir is worshipped by most Tiragardians outside of [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica\|Sarnica]]. Those who don't, or are outright hostile towards the god, are often accused of being Sarnhari: an agent of the chaos god. The core tenants of the church of Tir involve sun and ancestor worship, armed pilgrimage, and prophecy. They wander the realm, protected from otherworldly threats by the divinity of the [[Dungeons & Dragons/Realm of Aldr/Index/Artifacts/Censure of Grace\|Censure of Grace]].
+As expected, Tir is worshipped by most Tiragardians outside of [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica/Sarnica\|Sarnica]]. Those who don't, or are outright hostile towards the god, are often accused of being Sarnhari: an agent of the chaos god. The core tenants of the church of Tir involve sun and ancestor worship, armed pilgrimage, and prophecy. They wander the realm, protected from otherworldly threats by the divinity of the [[Dungeons & Dragons/Realm of Aldr/Index/Artifacts/Censure of Grace\|Censure of Grace]].
 ## Everburning Fire
 The Everburning Fire is though to be the spirit of Tir who guides his faithful in the realm. It is a white fire that does not burn those who are truly devoted to the Scorching Sinner. It can be seen 'pulling' in a particular direction at times, or depicting a specific symbol within the fire. The Church of Tir divines these anomalies as the will of Tir made manifest.
 ## Rituals

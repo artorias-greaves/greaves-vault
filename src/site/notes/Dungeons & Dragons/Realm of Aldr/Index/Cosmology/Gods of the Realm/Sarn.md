@@ -4,7 +4,7 @@
 
 **Sarn** is the realm's god of lies, chaos, war, and seduction. Before the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/God Wars\|God Wars]], he was [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Tiragard\|Tiragard]]'s top general and aided [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Tir\|Tir]] in his rebellion before betraying him, claiming the power of a god for himself by slaying another. This caught the attention of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Gods of the Realm/Phoheida\|Phoheida]], who made him her consort.
 
-After the God Wars, he rallied his loyal followers to establish a new nation beyond the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Warded Walls\|Warded Walls]].
+After the God Wars, he rallied his loyal followers to establish a new nation beyond the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Warded Walls\|Warded Walls]].
 
 **Title(s)**
 - The Deceiver

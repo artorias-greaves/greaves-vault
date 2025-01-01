@@ -21,7 +21,7 @@ Chem is chaotic in nature, but he is not necessarily destructive; this dragon is
 A servant of chaos, Chem serves the will of Sarn. He does this with unwavering loyalty, but he isn't afraid to step on the god's toes when he gets out of line.
 # Realm
 ---
-Chem's realm is the Academy of Sorcerest. It is a prestigious, city-sized school, located within the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Tiragard/Warded Walls\|Warded Walls]], that teaches its students the mysteries of the gods and the realms. Some of the realm's most powerful mages and inventers studied here.
+Chem's realm is the Academy of Sorcerest. It is a prestigious, city-sized school, located within the [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Warded Walls\|Warded Walls]], that teaches its students the mysteries of the gods and the realms. Some of the realm's most powerful mages and inventers studied here.
 # Relationships
 ---
 ## Allies
