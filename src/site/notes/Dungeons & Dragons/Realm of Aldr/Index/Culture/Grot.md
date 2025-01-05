@@ -40,3 +40,4 @@ Special ingredients may be found and added to your Living Grot to grant it uniqu
 |  Octane   |  Explode in a fiery torrent. Each creature in a 10-foot radius makes a dexterity saving throw with a DC of 15. A target takes 4d6 fire damage on a failed save, or half as much damage on a successful one. The user of Octane automatically fails this save. Flammable objects hit by this spell do not ignite.  |  [[Dungeons & Dragons/Realm of Aldr/Index/Locations/Aldr/Sarnica/Sarnica\|Sarnica]]   |
 |  Ragemead   |  Enter a **Rage**.   |  Chemists   |
 |  Swift   |  Gain an extra action for this turn.   |  *Unknown*   |
+|  Fireweed   |  Gain resistance to fire damage for 1 minute. Conventional sources of fire do not burn you (candle, campfire, torch, etc.).   |  Plains   |
