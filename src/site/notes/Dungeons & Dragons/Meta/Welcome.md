@@ -21,10 +21,11 @@ Alas, the site where this is published is very limited. You may find the formatt
 *The Outer Bailey sits in the shadow of the Warded Walls. Monsters prowl the land as much as robbers. Those who travel its roads must do so in groups—there are no survivors amongst the few. It is the land that brought you into Guild, and it is the land that must bring you out, for your new, lethal condition cannot be cured here.*
 
 ## Party Status
-Campaigning; wilderness.
+Campaigning; Pilgrim's Rise
 Supply: 5
 ### Grot
-- **2d4+2** healing (2 charges)
+- **2d4+2** healing
+- **2x** charges
 - **Jarro:** N/A
 - **Edgar:** N/A
 
