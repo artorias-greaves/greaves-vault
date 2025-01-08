@@ -124,6 +124,13 @@
 - The only way to achieve peace is to correct everything.
 - Ned Stark clings to his ideology of law, and it tears apart his life/realm. He ends up doing a 180 on his thematic axis and lies to fix things.
 - Positive growth: Must get their hands dirty.
+- Principles are a wall holding back the anger.
+# Now What?
+---
+[^11]
+- \_ is preventing the character from \_.
+	- Input types.
+- Tri-types: Describe a character with a type from each subtype.
 # Notes
 ---
 - Seems awfully similar to Jungian archetypes.
@@ -138,3 +145,4 @@
 [^8]: https://www.youtube.com/watch?v=HKG2P2wi4fU&list=PLvCxSkhTONgcsx9fvI4ozFSB6Qi-BPXzf&index=8
 [^9]: https://www.youtube.com/watch?v=-x6A5J8aA-8&list=PLvCxSkhTONgcsx9fvI4ozFSB6Qi-BPXzf&index=9
 [^10]: https://www.youtube.com/watch?v=SorkIX_ABCo&list=PLvCxSkhTONgcsx9fvI4ozFSB6Qi-BPXzf&index=10
+[^11]: https://www.youtube.com/watch?v=Zm22aWxK9cc&list=PLvCxSkhTONgcsx9fvI4ozFSB6Qi-BPXzf&index=11
