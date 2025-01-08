@@ -12,7 +12,7 @@
 	- Habits and techniques for writing prose.
 - **Story** by Robert McKee
 	- Fundamentals of storytelling and writing scripts.
-	- [[Notebook/Story by Robert McKee\|Notes]]
+	- [[Notebook/Notes/Book Notes/Story by Robert McKee\|Notes]]
 ## Golden Age of Piracy
 - **A General History of the Pyrates** by Charles Johnson
 	- https://www.gutenberg.org/files/40580/40580-h/40580-h.htm
