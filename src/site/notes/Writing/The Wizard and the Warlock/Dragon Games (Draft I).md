@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/writing/the-wizard-and-the-warlock/dragon-games-draft-i/"}
 ---
 
+- Characters
+	- [[Eleanor La Salle.canvas|Eleanor La Salle]]
+	- [[Maverick.canvas|Maverick]]
 - **Hook:** Get dragon's scale for fire magic.
 - **Setting:** Dragon cave.
 - **Message:** Which is more important, to follow a pre-established plan, never deviating unless necessary? Or indulging 
