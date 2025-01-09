@@ -23,3 +23,7 @@ The written language of [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Outer
 The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Species/Dwarriden\|Dwarriden]]. This ancient language is presented as a collection of rumbles and vibrations, thought to be the vocalizations of the realm's runes.
 ## Ehbil
 The language of the [[Dungeons & Dragons/Realm of Aldr/Index/Species/Ylvari\|Ylvari]], [[Dungeons & Dragons/Realm of Aldr/Index/Monsters/Ulv\|Ulv]], and other creatures that come from the [[Dungeons & Dragons/Realm of Aldr/Index/Cosmology/Ehb\|Ehb]]. It is the language of most magical incantations. It carries with it magic in every spoken word and phrase.
+
+# Gallery
+---
+![Aldr Language.png](/img/user/Attachments/Dungeons%20&%20Dragons%20Attachments/Aldr%20Language.png)
