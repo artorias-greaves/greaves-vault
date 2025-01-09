@@ -12,7 +12,7 @@
 	- Habits and techniques for writing prose.
 - [ ] **Story** by Robert McKee
 	- Fundamentals of storytelling and writing scripts.
-	- [[Notebook/Notes/Book Notes/Story by Robert McKee\|Notes]]
+	- [[Book & Media Notes/Story by Robert McKee\|Notes]]
 ## Golden Age of Piracy
 - [ ] **A General History of the Pyrates** by Charles Johnson
 	- https://www.gutenberg.org/files/40580/40580-h/40580-h.htm
@@ -30,7 +30,7 @@
 ### Viking Age
 - [ ] **A History of the Vikings** by Gwyn Jones
 	- Overview of the 'northmen' from prehistory to 1066
-### [[Notebook/Research/Medieval Europe (476-1453)/1028-1087 — William the Conqueror\|William the Conqueror]]
+### [[Research/Medieval Europe (476-1453)/1028-1087 — William the Conqueror\|William the Conqueror]]
 - [ ] **William the Conqueror** by David Bates
 	- Biography
 
